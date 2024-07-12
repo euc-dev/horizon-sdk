@@ -19,9 +19,3 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | Name | Version | Size | MD5 |   |
 | --- | --- | --- | --- | --- |
 | Horizon View Session Enhancement SDK | 3.2 | 6.9 MB |  | [Download](https://my.vmware.com/group/vmware/get-download?downloadGroup=CART18FQ3-VDPSERVICE-SDK) { .md-button .md-button--primary } |
-
-## Top Community Sample Code
-
-| Name | Contributor | Language |
-| --- | --- | --- |
-| [Infrastructure Pain Points Overview](https://developer.omnissa.com/horizon/sdks/view-session-management/samples/infrastructure-pain-points-overview) | VMkbruesch | 	vRealize Ops Dashboard |

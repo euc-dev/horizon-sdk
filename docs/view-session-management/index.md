@@ -25,10 +25,10 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | Name | Size |	 
 | --- | --- |
 |Development Guides |  |
-| [VMware Horizon Session Enhancement SDK Programming Guide](horizon-session-enhancement-sdk-33.pdf) | 1.1 MB	|
+| [VMware Horizon Session Enhancement SDK Programming Guide](./versions/3.3/horizon-session-enhancement-sdk-33.pdf) | 1.1 MB	|
 
 ## Top Community Sample Code
 
-| --- | --- | --- |
 | Name | Contributor | Language |
+| --- | --- | --- |
 | [Infrastructure Pain Points Overview](https://github.com/euc-dev/euc-samples/tree/main/Horizon-Samples/infrastructure-pain-points-overview) | VMkbruesch | vRealize Ops Dashboard |

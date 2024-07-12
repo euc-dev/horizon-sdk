@@ -26,9 +26,3 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | --- | --- |
 | OSS @span |   |
 | [Open Source File](https://my.vmware.com/group/vmware/get-download?downloadGroup=REMEXP_16Q1_SDK_30_OSS) | 55.5 KB |
-
-## Top Community Sample Code
-
-| Name | Contributor | Language |
-| --- | --- | --- |
-| [Infrastructure Pain Points Overview](https://developer.omnissa.com/horizon/sdks/view-session-management/samples/infrastructure-pain-points-overview) | VMkbruesch | 	vRealize Ops Dashboard |

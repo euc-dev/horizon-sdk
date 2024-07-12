@@ -26,9 +26,3 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | --- | --- |
 | OSS @span |   |
 | [OSL File - View Session Enhancement SDK 2.0](https://my.vmware.com/group/vmware/get-download?downloadGroup=VIEWSESSION_VDPSERVICE_SDK2.0_OSS) | 63.2 KB |
-
-## Top Community Sample Code
-
-| Name | Contributor | Language |
-| --- | --- | --- |
-| [Infrastructure Pain Points Overview](https://developer.omnissa.com/horizon/sdks/view-session-management/samples/infrastructure-pain-points-overview) | VMkbruesch | 	vRealize Ops Dashboard |

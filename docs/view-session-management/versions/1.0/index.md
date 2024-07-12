@@ -31,9 +31,3 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | [VMware Horizon View Session Enhancement SDK API Guide](VSESDKGuide.pdf) | 294.5  KB |
 | OSS @span |   |
 | [Horizon View Session Enhancement SDK 1_0 Open Source License.txt](#) | 5.1 KB |
-
-## Top Community Sample Code
-
-| Name | Contributor | Language |
-| --- | --- | --- |
-| [Infrastructure Pain Points Overview](https://github.com/euc-dev/euc-samples/tree/main/Horizon-Samples/infrastructure-pain-points-overview) | VMkbruesch | 	vRealize Ops Dashboard |

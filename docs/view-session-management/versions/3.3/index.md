@@ -25,7 +25,7 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 | Name | Size |	 
 | --- | --- |
 |Development Guides |  |
-| [VMware Horizon Session Enhancement SDK Programming Guide](horizon-session-enhancement-sdk-33.pdf) | 1.1 MB	|
+| [VMware Horizon Session Enhancement SDK Programming Guide](./horizon-session-enhancement-sdk-33.pdf) | 1.1 MB	|
 
 ## Top Community Sample Code
 
