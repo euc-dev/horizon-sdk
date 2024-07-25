@@ -18,7 +18,7 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Version | Size | MD5 |   |
 | --- | --- | --- | --- | --- |
-| RDP VC Bridge SDK | 1.0.0-1404318 |   |  | [Download](https://my.vmware.com/group/vmware/get-download?downloadGroup=VIEWRDPVCBRIDGE_10) { .md-button .md-button--primary }  |
+| RDP VC Bridge SDK | 1.0.0-1404318 |   |  | [Download](https://my.vmware.com/group/vmware/get-download?downloadGroup=VIEWRDPVCBRIDGE_10) { .md-button }  |
 
 ## Documentation and Reference
 

@@ -18,7 +18,7 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Version | Size | MD5 |  |
 | --- | --- | --- | --- | --- |
-|Horizon View Session Enhancement | 3.3.0 | 524.7 KB | 509fec1b84019f24bf257afc3ecb8aa5 | [Download](#) { .md-button .md-button--primary } |
+|Horizon View Session Enhancement | 3.3.0 | 524.7 KB | 509fec1b84019f24bf257afc3ecb8aa5 | [Download](#) { .md-button } |
 
 ## Documentation and Reference
 

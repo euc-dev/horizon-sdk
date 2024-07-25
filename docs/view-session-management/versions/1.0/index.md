@@ -18,8 +18,8 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Version | Size | MD5 |   |
 | --- | --- | --- | --- | --- |
-| Horizon View Session Enhancement SDK for Windows | 1.0 |   |  | [Download](#) { .md-button .md-button--primary } |
-| Horizon View Session Enhancement SDK for Linux | 1.0 |   |  | [Download](#) { .md-button .md-button--primary } |
+| Horizon View Session Enhancement SDK for Windows | 1.0 |   |  | [Download](#) { .md-button } |
+| Horizon View Session Enhancement SDK for Linux | 1.0 |   |  | [Download](#) { .md-button } |
 
 ## Documentation and Reference
 

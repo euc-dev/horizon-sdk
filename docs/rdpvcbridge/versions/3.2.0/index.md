@@ -18,4 +18,4 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Version | Size | MD5 |   |
 | --- | --- | --- | --- | --- |
-| RDP VC Bridge SDK | 3.2.0 | 1.7 MB |  | [Download](https://my.vmware.com/group/vmware/get-download?downloadGroup=CART18FQ3-RDPVCBRIDGE-SDK) { .md-button .md-button--primary }  |
+| RDP VC Bridge SDK | 3.2.0 | 1.7 MB |  | [Download](https://my.vmware.com/group/vmware/get-download?downloadGroup=CART18FQ3-RDPVCBRIDGE-SDK) { .md-button }  |

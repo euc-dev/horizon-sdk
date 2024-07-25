@@ -20,7 +20,7 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Version | Size | MD5|  |
 | --- | --- | --- | --- | --- |
-| RDP VC Bridge | 3.3.0 | 36.3 KB | 8159599cf07d880c468a6fe206825ec2 | [Download](VMware-rdpvcbridge-sdk-18347885.zip) { .md-button .md-button--primary } |
+| RDP VC Bridge | 3.3.0 | 36.3 KB | 8159599cf07d880c468a6fe206825ec2 | [Download](VMware-rdpvcbridge-sdk-18347885.zip) { .md-button } |
 
 ## Documentation and Reference
 

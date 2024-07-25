@@ -18,7 +18,7 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Version | Size | MD5 |   |
 | --- | --- | --- | --- | --- |
-| Horizon View Session Enhancement SDK for Windows | 2.0 |   |  | [Download](https://developer.omnissa.com/horizon/sdks/view-session-management/versions/2.0/#:~:text=51.0%20KB-,Download,-2Documentation%20and) { .md-button .md-button--primary } |
+| Horizon View Session Enhancement SDK for Windows | 2.0 |   |  | [Download](https://developer.omnissa.com/horizon/sdks/view-session-management/versions/2.0/#:~:text=51.0%20KB-,Download,-2Documentation%20and) { .md-button } |
 
 ## Documentation and Reference
 

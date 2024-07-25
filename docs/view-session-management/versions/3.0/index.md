@@ -18,7 +18,7 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Version | Size | MD5 |   |
 | --- | --- | --- | --- | --- |
-| Horizon View Session Enhancement SDK | 3.0 | 65.8 MB | 779d77e1980dea24775acdf49cc3080d | [Download](https://my.vmware.com/group/vmware/get-download?downloadGroup=VIEWSESSION_VDP_SERVICE_SDK30_NEW2) { .md-button .md-button--primary } |
+| Horizon View Session Enhancement SDK | 3.0 | 65.8 MB | 779d77e1980dea24775acdf49cc3080d | [Download](https://my.vmware.com/group/vmware/get-download?downloadGroup=VIEWSESSION_VDP_SERVICE_SDK30_NEW2) { .md-button } |
 
 ## Documentation and Reference
 
