@@ -25,9 +25,9 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Size |
 | --- | --- |
-| API References @span |   |
+| API References |   |
 | [VMware Horizon View Session Enhancement SDK Agreement](View%20Session%20Enhancement%20SDK%20Agreement%201.0%20(FINAL).pdf) | 231.9  KB |
-| Development Guides @span |   |
+| Development Guides |   |
 | [VMware Horizon View Session Enhancement SDK API Guide](VSESDKGuide.pdf) | 294.5  KB |
-| OSS @span |   |
+| OSS |   |
 | [Horizon View Session Enhancement SDK 1_0 Open Source License.txt](#) | 5.1 KB |

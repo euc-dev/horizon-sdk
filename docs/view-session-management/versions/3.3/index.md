@@ -29,6 +29,6 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 ## Top Community Sample Code
 
-| --- | --- | --- |
 | Name | Contributor | Language |
+| --- | --- | --- |
 | [Infrastructure Pain Points Overview](https://github.com/euc-dev/euc-samples/tree/main/Horizon-Samples/infrastructure-pain-points-overview) | VMkbruesch | vRealize Ops Dashboard |

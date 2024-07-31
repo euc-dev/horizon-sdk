@@ -24,5 +24,5 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Size |
 | --- | --- |
-| OSS @span |   |
+| OSS |   |
 | [OSL File - View Session Enhancement SDK 2.0](https://my.vmware.com/group/vmware/get-download?downloadGroup=VIEWSESSION_VDPSERVICE_SDK2.0_OSS) | 63.2 KB |

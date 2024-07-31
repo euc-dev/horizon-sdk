@@ -24,5 +24,5 @@ By downloading, installing, or using the Software, you agree to be bound by the 
 
 | Name | Size |
 | --- | --- |
-| OSS @span |   |
+| OSS |   |
 | [Open Source File](https://my.vmware.com/group/vmware/get-download?downloadGroup=REMEXP_16Q1_SDK_30_OSS) | 55.5 KB |
