@@ -2,13 +2,15 @@
 
 This repo contains documentation relating to Horizon SDKs.
 
-This repo is structured to feed into the developer.omnissa.com Developer Portal via the [](https://github.com/euc-dev/euc-dev.github.io) repo using MkDocs published by GitHub Pages. All documentation should be created in MarkDown format with the capabilities of MkDocs and the Material theme in mind.Only pages within the `/docs` folder should be modified within this repo.
+This repo is structured to feed into the [Omnissa Developer Portal](https://developer.omnissa.com) via the [https://github.com/euc-dev/euc-dev.github.io](https://github.com/euc-dev/euc-dev.github.io) repo using MkDocs and published by GitHub Pages. All documentation should be created in MarkDown format with the capabilities of MkDocs and the Material theme in mind. Only pages within the `/docs` folder should be modified within this repo.
 
-This folder will be integrated into the [developer portal repo](https://github.com/euc-dev/euc-dev.github.io) when built using a GitHub Action.
+This folder will be integrated into the [Omnissa Developer Portal repo](https://github.com/euc-dev/euc-dev.github.io) using GitHub Submodules. These pages will then be integrated into the Omnissa Developer Portal using a GitHub Action to build the GitHub Pages site.
 
 ## Downloads
 
-By downloading, installing, or using the Software, you agree to be bound by the terms of Omnissa’s Software Development Kit License Agreement unless there is a different license provided in or specifically referenced by the downloaded file or package. If you disagree with any terms of the agreement, then do not use the Software.
+Omnissa provides this Software Development Kit (the “Software”) to you subject to the following terms and conditions. By downloading, installing, or using the Software, you agree to be bound by the terms of [SDK License Agreement](https://static.omnissa.com/sites/default/files/omnissa-sdk-agreement.pdf). If you disagree with any of the terms, then do not use the Software.
+
+For additional information, please visit the [Omnissa Legal Center](https://www.omnissa.com/legal-center/).
 
 ## License
 

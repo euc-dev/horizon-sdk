@@ -12,12 +12,12 @@ The following SDKs are provided for Horizon environments.
 
 ::cards::
 
-- title: VMware RDP VC Bridge SDK
+- title: Horizon RDP VC Bridge SDK
   #content: 
   url: rdpvcbridge/index.md
   image: ../../assets/logos/horizon-logo.png
 
-- title: VMware View Session Enhancement SDK
+- title: Horizon View Session Enhancement SDK
   #content: 
   url: view-session-management/index.md
   image: ../../assets/logos/horizon-logo.png
