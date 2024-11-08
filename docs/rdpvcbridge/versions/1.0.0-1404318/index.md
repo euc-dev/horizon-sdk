@@ -18,7 +18,7 @@ Omnissa provides this Software Development Kit (the “Software”) to you subje
 
 For additional information, please visit the [Omnissa Legal Center](https://www.omnissa.com/legal-center/).
 
-The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=wsone-sdk-xamarin) or [Release](https://github.com/euc-releases/wsone-sdk-xamarin/releases). Please download the software from the appropriate location.
+The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=horizon-rdpbridge-sdk) or [Release](https://github.com/euc-releases/horizon-rdpbridge-sdk/releases/tag/3.3.0). Please download the software from the appropriate location.
 
 ## License
 
@@ -27,15 +27,3 @@ This software is licensed under the [Omnissa Software Development Kit (SDK) Lice
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 This software may also utilize Third-Pary Open Source Software as detailed within the [open_source_licenses.txt](open_source_licenses.txt) file.
-
-
-| Name | Version | Size | MD5 |   |
-| --- | --- | --- | --- | --- |
-| RDP VC Bridge SDK | 1.0.0-1404318 |   |  | [Download](https://my.vmware.com/group/vmware/get-download?downloadGroup=VIEWRDPVCBRIDGE_10) { .md-button }  |
-
-## Documentation and Reference
-
-| Name | Size |
-| --- | --- |
-| OSS @span |   |
-| [oss_license RPVCBridge SDK 1.0](https://my.vmware.com/group/vmware/get-download?downloadGroup=VIEWRDPVCBRIDGE_10_OSS) | 14.6 KB |

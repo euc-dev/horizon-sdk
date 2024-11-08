@@ -18,7 +18,7 @@ Omnissa provides this Software Development Kit (the “Software”) to you subje
 
 For additional information, please visit the [Omnissa Legal Center](https://www.omnissa.com/legal-center/).
 
-The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=wsone-sdk-xamarin) or [Release](https://github.com/euc-releases/wsone-sdk-xamarin/releases). Please download the software from the appropriate location.
+The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=horizon-rdpbridge-sdk) or [Release](https://github.com/euc-releases/horizon-rdpbridge-sdk/releases/tag/3.3.0). Please download the software from the appropriate location.
 
 ## License
 
@@ -28,11 +28,6 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 This software may also utilize Third-Pary Open Source Software as detailed within the [open_source_licenses.txt](open_source_licenses.txt) file.
 
-| Name | Version | Size | MD5 |   |
-| --- | --- | --- | --- | --- |
-| Horizon View Session Enhancement SDK for Windows | 1.0 |   |  | [Download](#) { .md-button } |
-| Horizon View Session Enhancement SDK for Linux | 1.0 |   |  | [Download](#) { .md-button } |
-
 ## Documentation and Reference
 
 | Name | Size |
@@ -41,5 +36,3 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 | [Omnissa Horizon View Session Enhancement SDK Agreement](View%20Session%20Enhancement%20SDK%20Agreement%201.0%20(FINAL).pdf) | 231.9  KB |
 | Development Guides |   |
 | [Omnissa Horizon View Session Enhancement SDK API Guide](VSESDKGuide.pdf) | 294.5  KB |
-| OSS |   |
-| [Horizon View Session Enhancement SDK 1_0 Open Source License.txt](#) | 5.1 KB |

@@ -18,7 +18,7 @@ Omnissa provides this Software Development Kit (the “Software”) to you subje
 
 For additional information, please visit the [Omnissa Legal Center](https://www.omnissa.com/legal-center/).
 
-The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=wsone-sdk-xamarin) or [Release](https://github.com/euc-releases/wsone-sdk-xamarin/releases). Please download the software from the appropriate location.
+The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=horizon-vdpservice-sdk) or [Release](https://github.com/euc-releases/horizon-vdpservice-sdk/releases). Please download the software from the appropriate location.
 
 ## License
 
@@ -27,14 +27,3 @@ This software is licensed under the [Omnissa Software Development Kit (SDK) Lice
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 This software may also utilize Third-Pary Open Source Software as detailed within the [open_source_licenses.txt](open_source_licenses.txt) file.
-
-| Name | Version | Size | MD5 |   |
-| --- | --- | --- | --- | --- |
-| Horizon View Session Enhancement SDK for Windows | 2.0 |   |  | [Download](https://developer.omnissa.com/horizon/sdks/view-session-management/versions/2.0/#:~:text=51.0%20KB-,Download,-2Documentation%20and) { .md-button } |
-
-## Documentation and Reference
-
-| Name | Size |
-| --- | --- |
-| OSS |   |
-| [OSL File - View Session Enhancement SDK 2.0](https://my.vmware.com/group/vmware/get-download?downloadGroup=VIEWSESSION_VDPSERVICE_SDK2.0_OSS) | 63.2 KB |
