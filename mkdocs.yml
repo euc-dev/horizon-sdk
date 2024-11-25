@@ -149,19 +149,19 @@ nav:
   - Horizon SDKs: index.md
   - Horizon RDP VC Bridge SDK: 
     - rdpvcbridge/index.md
-    - Versions:
-      - v3.3.0: rdpvcbridge/versions/3.3.0/index.md
-      - v3.2.0: rdpvcbridge/versions/3.2.0/index.md
-      - v3.1.0: rdpvcbridge/versions/3.1.0/index.md
-      - v3.0.0: rdpvcbridge/versions/3.0.0/index.md
-      - v2.0.0: rdpvcbridge/versions/2.0.0/index.md
-      - v1.0.0-1404318: rdpvcbridge/versions/1.0.0-1404318/index.md
+    # - Versions:
+    #   - v3.3.0: rdpvcbridge/versions/3.3.0/index.md
+    #   - v3.2.0: rdpvcbridge/versions/3.2.0/index.md
+    #   - v3.1.0: rdpvcbridge/versions/3.1.0/index.md
+    #   - v3.0.0: rdpvcbridge/versions/3.0.0/index.md
+    #   - v2.0.0: rdpvcbridge/versions/2.0.0/index.md
+    #   - v1.0.0-1404318: rdpvcbridge/versions/1.0.0-1404318/index.md
   - Horizon View Session Enhancement SDK: 
     - view-session-management/index.md
-    - Versions:
-      - v3.3: view-session-management/versions/3.3/index.md
-      - v3.2: view-session-management/versions/3.2/index.md
-      - v3.1: view-session-management/versions/3.1/index.md
-      - v3.0: view-session-management/versions/3.0/index.md
-      - v2.0: view-session-management/versions/2.0/index.md
-      - v1.0: view-session-management/versions/1.0/index.md
+    # - Versions:
+    #   - v3.3: view-session-management/versions/3.3/index.md
+    #   - v3.2: view-session-management/versions/3.2/index.md
+    #   - v3.1: view-session-management/versions/3.1/index.md
+    #   - v3.0: view-session-management/versions/3.0/index.md
+    #   - v2.0: view-session-management/versions/2.0/index.md
+    #   - v1.0: view-session-management/versions/1.0/index.md
