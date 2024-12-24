@@ -19,7 +19,7 @@ Omnissa provides this Software Development Kit (the “Software”) to you subje
 
 For additional information, please visit the [Omnissa Legal Center](https://www.omnissa.com/legal-center/).
 
-The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=horizon-vdpservice-sdk) or [Release](https://github.com/euc-releases/horizon-vdpservice-sdk/releases). Please download the software from the appropriate location.
+The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=horizon-rdpbridge-sdk) or [Release](https://github.com/euc-releases/horizon-rdpbridge-sdk/releases). Please download the software from the appropriate location.
 
 ## License
 
