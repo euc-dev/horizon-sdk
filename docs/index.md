@@ -20,6 +20,6 @@ The following SDKs are provided for Horizon environments.
 - title: Horizon View Session Enhancement SDK
   #content: 
   url: view-session-management/index.md
-  image: ../../../assets/logos/Horizon.png
+  image: ../../../assets/logos/Horizon-v-lm.png
 
 ::/cards::
