@@ -22,4 +22,9 @@ The following SDKs are provided for Horizon environments.
   url: view-session-management/index.md
   image: ../../../assets/logos/Horizon-v-lm.png
 
+- title: Horizon webRTC Redirect SDK
+  #content: 
+  url: horizon-webrtc-redir-sdk/index.md
+  image: ../../../assets/logos/Horizon-v-lm.png
+
 ::/cards::

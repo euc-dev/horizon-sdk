@@ -1,4 +1,4 @@
-name: Notify parent repo of submodule updates
+name: Notify parent STAGING repo of submodule updates
 
 on:
   push:
@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: 
-          repository: ${{ secrets.PARENT_ORG }}/${{ secrets.PARENT_REPO }}
+          repository: ${{ secrets.PARENT_ORG }}/${{ secrets.PARENT_STAGING_REPO }}
           token: ${{ secrets.PRIVATE_TOKEN }}
           submodules: true
 
