@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: 
-          repository: ${{ secrets.PARENT_ORG }}/${{ secrets.PARENT_STAGING_REPO }}
+          repository: ${{ secrets.PARENT_ORG }}/${{ secrets.PARENT_REPO }}
           token: ${{ secrets.PRIVATE_TOKEN }}
           submodules: true
 
