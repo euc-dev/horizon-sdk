@@ -12,14 +12,19 @@ The following SDKs are provided for Horizon environments.
 
 ::cards::
 
-- title: Horizon RDP VC Bridge SDK
+- title: Horizon RDP Virtual Channel Bridge SDK
   #content: 
   url: rdpvcbridge/index.md
   image: ../../../assets/logos/Horizon-v-lm.png
 
-- title: Horizon View Session Enhancement SDK
+- title: Horizon Session Enhancement SDK
   #content: 
-  url: view-session-management/index.md
+  url: vdpservice/index.md
+  image: ../../../assets/logos/Horizon-v-lm.png
+
+- title: Horizon webRTC Redirect SDK
+  #content: 
+  url: horizon-webrtc-redir-sdk/index.md
   image: ../../../assets/logos/Horizon-v-lm.png
 
 ::/cards::

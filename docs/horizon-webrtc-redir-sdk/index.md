@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Horizon RDP VC Bridge SDK v4.0
+title: Horizon webRTC Redirection SDK
 hide:
   #- navigation
   - toc
 ---
 
-# RDP VC Bridge
+# webRTC.....
 
-Horizon RDP VC Bridge SDK allows partners to write Windows applications that can load plugins on the Horizon Client and communicate with them over a Horizon virtual channel, using Microsoft's "de facto standard" RDP WTS APIs.
+Horizon webRTC redir SDK allows partners to .....
 
-One use case is that it can be used to help the partners integrate and feed information from stand alone medical devices such as ECG and such through a virtual desktop to the private cloud.
+One use case is that ....
+
 This SDK is free and public. To obtain technical support for the use of the SDK, please submit a Support Request (SR) via [Omnissa Customer Connect](https://customerconnect.omnissa.com/home) to get help from the Omnissa Global Customer Services (GCS).
 
 ## Downloads
@@ -18,6 +19,8 @@ This SDK is free and public. To obtain technical support for the use of the SDK,
 Omnissa provides this Software Development Kit (the “Software”) to you subject to the following terms and conditions. By downloading, installing, or using the Software, you agree to be bound by the terms of [Omnissa SDK License Agreement](https://static.omnissa.com/sites/default/files/omnissa-sdk-agreement.pdf). If you disagree with any of the terms, then do not use the Software.
 
 For additional information, please visit the [Omnissa Legal Center](https://www.omnissa.com/legal-center/).
+
+The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/packages?repo_name=horizon-rdpbridge-sdk) or [Release](https://github.com/euc-releases/horizon-rdpbridge-sdk/releases). Please download the software from the appropriate location.
 
 ## License
 
@@ -27,10 +30,9 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 This software may also utilize Third-Pary Open Source Software as detailed within the [open_source_licenses.txt](open_source_licenses.txt) file.
 
-## SDK and Documentation
+## Documentation and Reference
 
 | Name | Size	|
 | --- | --- |
 | Development Guides |  |
-| [Omnissa Horizon RDP Virtual Channel Bridge SDK 4.0](./versions/4.0/horizon-rdpvcbridge-sdk-4.0.14304348675.zip) | 38 KB |
-| [Omnissa Horizon RDP Virtual Channel Bridge SDK 4.0 - Programming Guide](./versions/4.0/horizon-rdpvcbridge-sdk-programming-guide-4.0.pdf) | 579 KB |
+| [Omnissa Horizon RDP Virtual Channel Bridge SDK Programming Guide](./versions/3.3.0/horizon-RDP-virtual-channel-bridge-SDK-33-programming-guide.pdf) | 523.9 KB |
