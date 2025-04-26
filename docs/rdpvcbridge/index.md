@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Horizon RDP VC Bridge SDK v4.0
+title: Horizon RDP Virtual Channel Bridge v4.0
 hide:
   #- navigation
   - toc
