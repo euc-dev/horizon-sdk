@@ -8,23 +8,16 @@ hide:
 
 The following SDKs are provided for Horizon environments.
 
-<!-- [cards cols=2 (sdks/horizon-sdk/docs/doc-ref.yaml)] -->
-
 ::cards::
 
-- title: Horizon Session Enhancement SDK v4.0
+- title: Horizon Session Enhancement SDK
   #content: 
   url: vdpservice/index.md
   image: ../../../assets/logos/Horizon-v-lm.png
 
-- title: Horizon RDP VC Bridge SDK v4.0
+- title: Horizon RDP VC Bridge SDK
   #content: 
   url: rdpvcbridge/index.md
   image: ../../../assets/logos/Horizon-v-lm.png
 
-<!-- - title: Horizon webRTC Redirect SDK
-  #content: 
-  url: horizon-webrtc-redir-sdk/index.md
-  image: ../../../assets/logos/Horizon-v-lm.png
- -->
 ::/cards::
