@@ -1,5 +1,12 @@
 ---
 layout: page
+title: Horizon webRTC Redirection SDK
+hide:
+  #- navigation
+  - toc
+---
+---
+layout: page
 title: Horizon View Session Enhancement SDK v1.0
 hide:
   #- navigation
@@ -36,3 +43,4 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 | [Omnissa Horizon View Session Enhancement SDK Agreement](View%20Session%20Enhancement%20SDK%20Agreement%201.0%20(FINAL).pdf) | 231.9  KB |
 | Development Guides |   |
 | [Omnissa Horizon View Session Enhancement SDK API Guide](VSESDKGuide.pdf) | 294.5  KB |
+

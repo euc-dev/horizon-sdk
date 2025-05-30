@@ -1,0 +1,25 @@
+---
+layout: page
+title: Horizon webRTC Redirection SDK
+hide:
+  #- navigation
+  - toc
+---
+# `pauseRingtone(id)`
+
+Pauses a ringtone that’s currently playing on the client.
+
+### Parameters
+
+| Name | Description |
+|------|-------------|
+| `id` | *(Required)* Unique identifier for the ringtone (string or number) |
+
+### Return Values
+None
+
+### Code Example
+```js
+HorizonWebRtcRedirectionAPI.pauseRingtone("audio01");
+```
+

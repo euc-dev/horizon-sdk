@@ -1,5 +1,19 @@
 ---
 layout: page
+title: Horizon webRTC Redirection SDK
+hide:
+  #- navigation
+  - toc
+---
+---
+layout: page
+title: Horizon webRTC Redirection SDK
+hide:
+  #- navigation
+  - toc
+---
+---
+layout: page
 title: Horizon SDK Documentation
 hide:
   #- navigation
@@ -21,3 +35,5 @@ The following SDKs are provided for Horizon environments.
   image: ../../../assets/logos/Horizon-v-lm.png
 
 ::/cards::
+
+

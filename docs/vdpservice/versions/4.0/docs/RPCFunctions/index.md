@@ -1,0 +1,62 @@
+---
+layout: page
+title: Horizon webRTC Redirection SDK
+hide:
+  #- navigation
+  - toc
+---
+# RPC Functions
+
+The `vdprpc_interfaces.h` header file included in the Horizon Session Enhancement SDK contains a set of structures of function pointers to send RPC messages.
+
+- [`v1.AppendNamedParam`](v1.AppendNamedParam.md)
+- [`v1.AppendNamedReturnVal`](v1.AppendNamedReturnVal.md)
+- [`v1.AppendParam`](v1.AppendParam.md)
+- [`v1.AppendReturnVal`](v1.AppendReturnVal.md)
+- [`v1.CreateChannelObject`](v1.CreateChannelObject.md)
+- [`v1.CreateContext`](v1.CreateContext.md)
+- [`v1.DestroyChannelObject`](v1.DestroyChannelObject.md)
+- [`v1.GetCommand`](v1.GetCommand.md)
+- [`v1.GetId`](v1.GetId.md)
+- [`v1.GetMinimalStreamDataSize`](v1.GetMinimalStreamDataSize.md)
+- [`v1.GetNamedCommand`](v1.GetNamedCommand.md)
+- [`v1.GetNamedParam`](v1.GetNamedParam.md)
+- [`v1.GetNamedReturnVal`](v1.GetNamedReturnVal.md)
+- [`v1.GetObjectName`](v1.GetObjectName.md)
+- [`v1.GetObjectState`](v1.GetObjectState.md)
+- [`v1.GetParam`](v1.GetParam.md)
+- [`v1.GetParamCount`](v1.GetParamCount.md)
+- [`v1.GetReturnCode`](v1.GetReturnCode.md)
+- [`v1.GetReturnVal`](v1.GetReturnVal.md)
+- [`v1.GetReturnValCount`](v1.GetReturnValCount.md)
+- [`v1.GetStreamDataHeaderTail`](v1.GetStreamDataHeaderTail.md)
+- [`v1.GetStreamDataHeaderTailSize`](v1.GetStreamDataHeaderTailSize.md)
+- [`v1.GetStreamDataInfo`](v1.GetStreamDataInfo.md)
+- [`v1.GetStreamDataSize`](v1.GetStreamDataSize.md)
+- [`v1.Invoke`](v1.Invoke.md)
+- [`v1.SetCommand`](v1.SetCommand.md)
+- [`v1.SetNamedCommand`](v1.SetNamedCommand.md)
+- [`v1.SetReturnCode`](v1.SetReturnCode.md)
+- [`v1.VariantClear`](v1.VariantClear.md)
+- [`v1.VariantCopy`](v1.VariantCopy.md)
+- [`v1.VariantFromBlob`](v1.VariantFromBlob.md)
+- [`v1.VariantFromChar`](v1.VariantFromChar.md)
+- [`v1.VariantFromDouble`](v1.VariantFromDouble.md)
+- [`v1.VariantFromFloat`](v1.VariantFromFloat.md)
+- [`v1.VariantFromInt32`](v1.VariantFromInt32.md)
+- [`v1.VariantFromInt64`](v1.VariantFromInt64.md)
+- [`v1.VariantFromShort`](v1.VariantFromShort.md)
+- [`v1.VariantFromStr`](v1.VariantFromStr.md)
+- [`v1.VariantFromUInt32`](v1.VariantFromUInt32.md)
+- [`v1.VariantFromUInt64`](v1.VariantFromUInt64.md)
+- [`v1.VariantFromUShort`](v1.VariantFromUShort.md)
+- [`v1.VariantInit`](v1.VariantInit.md)
+- [`v2.CreateContext`](v2.CreateContext.md)
+- [`v2.FreeStreamDataPayload`](v2.FreeStreamDataPayload.md)
+- [`v2.GetStreamData`](v2.GetStreamData.md)
+- [`v2.GetStreamDataInfo`](v2.GetStreamDataInfo.md)
+- [`v2.IsSideChannelAvailable`](v2.IsSideChannelAvailable.md)
+- [`v2.RequestSideChannel`](v2.RequestSideChannel.md)
+- [`v2.SetOps`](v2.SetOps.md)
+- [`v3.GetObjectOptions`](v3.GetObjectOptions.md)
+- [`v4.GetObjectStateByName`](v4.GetObjectStateByName.md)

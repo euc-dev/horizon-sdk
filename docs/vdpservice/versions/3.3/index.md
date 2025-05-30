@@ -1,5 +1,12 @@
 ---
 layout: page
+title: Horizon webRTC Redirection SDK
+hide:
+  #- navigation
+  - toc
+---
+---
+layout: page
 title: Horizon View Session Enhancement SDK v3.3
 hide:
   #- navigation
@@ -41,3 +48,4 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 | Name | Contributor | Language |
 | --- | --- | --- |
 | [Infrastructure Pain Points Overview](https://github.com/euc-dev/euc-samples/tree/main/Horizon-Samples/infrastructure-pain-points-overview) | VMkbruesch | vRealize Ops Dashboard |
+
