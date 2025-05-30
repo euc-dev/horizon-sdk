@@ -1,5 +1,12 @@
 ---
 layout: page
+title: Horizon webRTC Redirection SDK
+hide:
+  #- navigation
+  - toc
+---
+---
+layout: page
 title: Horizon RDP Virtual Channel Bridge v4.0
 hide:
   #- navigation
@@ -34,3 +41,4 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 | Development Guides |  |
 | [Omnissa Horizon RDP Virtual Channel Bridge SDK 4.0](./versions/4.0/horizon-rdpvcbridge-sdk-4.0.14304348675.zip) | 38 KB |
 | [Omnissa Horizon RDP Virtual Channel Bridge SDK 4.0 - Programming Guide](./versions/4.0/horizon-rdpvcbridge-sdk-programming-guide-4.0.pdf) | 579 KB |
+

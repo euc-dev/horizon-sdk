@@ -1,5 +1,12 @@
 ---
 layout: page
+title: Horizon webRTC Redirection SDK
+hide:
+  #- navigation
+  - toc
+---
+---
+layout: page
 title: Horizon Session Enhancement SDK v4.0
 hide:
   #- navigation
@@ -37,3 +44,4 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 |Development Guides |  |
 | [Omnissa Horizon Session Enhancement SDK 4.0](./versions/4.0/horizon-vdpservice-sdk-4.0.14304348675.zip) | 522 KB |
 | [Omnissa Horizon Session Enhancement SDK 4.0 - Programming Guide](./versions/4.0/horizon-vdpservice-sdk-programming-guide-4.0.pdf) | 1.38 MB |
+
