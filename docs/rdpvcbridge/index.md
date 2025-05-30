@@ -1,12 +1,5 @@
 ---
 layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
----
-layout: page
 title: Horizon RDP Virtual Channel Bridge v4.0
 hide:
   #- navigation
