@@ -5,13 +5,6 @@ hide:
   #- navigation
   - toc
 ---
----
-layout: page
-title: Horizon RDP VC Bridge SDK v2.0
-hide:
-  #- navigation
-  - toc
----
 
 Omnissa RDP VC Bridge SDK allows partners to write Windows applications that can load plugins on the View client and communicate with them over a PCoIP virtual channel, using Microsoft's "de facto standard" RDP WTS APIs.
 
