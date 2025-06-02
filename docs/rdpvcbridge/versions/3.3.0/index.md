@@ -5,13 +5,6 @@ hide:
   #- navigation
   - toc
 ---
----
-layout: page
-title: Horizon RDP VC Bridge SDK
-hide:
-  #- navigation
-  - toc
----
 
 ## RDP VC Bridge
 
