@@ -5,13 +5,6 @@ hide:
   #- navigation
   - toc
 ---
----
-layout: page
-title: Horizon Session Enhancement SDK v4.0
-hide:
-  #- navigation
-  - toc
----
 
 The Omnissa View Session Enhancement Software Development Kit (SDK) allows software engineers to write host-side and client-side applications and allow communications between a clients and remote desktop. The Session Enhancement SDK is comprised of 3 APIs; Remote Procedure Call (RPC), Overlay and Screen Capture.
 
