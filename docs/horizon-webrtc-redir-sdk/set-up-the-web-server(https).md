@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Set Up the Web Server (https)
 
 1. Make sure you have NodeJS(latest stable version will be good enough) installed in your environment. For the httpServer you can also use any other statically hosting solution.

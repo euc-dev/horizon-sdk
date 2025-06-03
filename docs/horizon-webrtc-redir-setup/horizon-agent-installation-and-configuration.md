@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Horizon Agent Installation and Configuration
 
 The Horizon WebRTC Redirection feature is installed by default with Horizon Agent as part of the core feature set.
@@ -39,4 +32,5 @@ However, the feature is installed in deactivated state. You must manually activa
 2. Verify that the **electronAppEnabled** registry key is present in that folder.
 
 ![](images/WebRTCRedirGPOPolicyRegistry.png)
+
 

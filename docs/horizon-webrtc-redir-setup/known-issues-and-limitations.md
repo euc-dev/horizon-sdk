@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 ## Known Issues and Limitations
 The Horizon SDK for WebRTC Redirection does not support the following functionality:
 
@@ -13,4 +6,5 @@ The Horizon SDK for WebRTC Redirection does not support the following functional
 - Give or take control of screenshares
 - E911 functionality
 - Background Blur
+
 

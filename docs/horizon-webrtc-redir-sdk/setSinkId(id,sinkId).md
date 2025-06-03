@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `setSinkId(id, sinkId)`
 
 Sets the audio output device for a specific sound stream (e.g., a ringtone or alert).
@@ -23,4 +16,5 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.setSinkId("audio01", "audioDevice01");
 ```
+
 

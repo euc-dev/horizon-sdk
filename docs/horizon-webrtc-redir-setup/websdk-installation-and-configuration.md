@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Installation and Configuration for browser-based WebRTC application
 
 This section describes the SDK installation and setup procedures for browser-based WebRTC application
@@ -39,3 +31,4 @@ Verify that the source virtual machine for each remote desktop meets the followi
 The Horizon SDK for WebRTC Redirection supports UC applications built on the Electron software framework.
 
 **Note:** The SDK for browser-based WebRTC application only supports UC applications running on Omnissa VDI deployments. It does not support CEF, PWA.
+

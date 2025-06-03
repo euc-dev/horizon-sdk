@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Remote Desktop Services API Support
 
 RDPVCBridge supports a subset of RDS API functions.
@@ -55,3 +47,4 @@ RDPVCBridge supports a subset of RDS API functions.
 -  WTSVirtualChannelRead: [https://docs.microsoft.com/en-us/windows/win32/api/wtsapi32/nfwtsapi32-wtsvirtualchannelread](https://docs.microsoft.com/en-us/windows/win32/api/wtsapi32/nfwtsapi32-wtsvirtualchannelread)
 
 -  WTSVirtualChannelWrite: [https://docs.microsoft.com/en-us/windows/win32/api/wtsapi32/nfwtsapi32-wtsvirtualchannelwrite](https://docs.microsoft.com/en-us/windows/win32/api/wtsapi32/nfwtsapi32-wtsvirtualchannelwrite)
+

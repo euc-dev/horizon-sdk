@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `getScreenInfo()`
 
 Gets information about the monitors connected to the client system.
@@ -21,4 +14,5 @@ None
 ```js
 let _screenInfo = await HorizonWebRtcRedirectionAPI.getScreenInfo();
 ```
+
 

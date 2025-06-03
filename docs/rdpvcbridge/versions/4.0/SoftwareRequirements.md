@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Software Requirements
 
 This topic describes the software prerequisites for the Omnissa Horizon RDP Virtual Channel Bridge SDK.

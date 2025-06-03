@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `playRingtone(id, src, isLoop)`
 
 Plays a ringtone on the client system using a local or remote audio source.
@@ -24,4 +17,5 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.playRingtone("audio01", "https://example.com/ringtone.mp3", true);
 ```
+
 

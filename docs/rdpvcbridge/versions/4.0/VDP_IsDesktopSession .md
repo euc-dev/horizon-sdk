@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # VDP_IsDesktopSession 
 The Agent queries the local system to verify if it is running in a remote desktop session and returns a TRUE value if it is.
  API Signature: 

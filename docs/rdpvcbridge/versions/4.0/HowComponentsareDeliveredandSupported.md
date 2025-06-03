@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # How Components Are Delivered and Supported
 
 The agent-side components are included with Horizon Agent. The client-side components are included with Horizon Client.

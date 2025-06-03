@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Setting up vchan-ping on the Agent
 
 1. Build `vchan-ping.exe` using the Visual Studio solution file.

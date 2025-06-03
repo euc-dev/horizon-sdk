@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Horizon Agent Installation and Configuration for browser-based WebRTC Redirection
 
 The Horizon browser-based WebRTC Redirection feature is installed by default with Horizon Agent as part of the core feature set.

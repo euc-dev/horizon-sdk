@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Sample Application Setup
 
 The Horizon SDK includes a **sample Electron application** that demonstrates how to implement WebRTC Redirection. You can use it as a reference or as a starting point for your own UC (unified communication) application.
@@ -80,4 +73,5 @@ sample/
 
 - You may need to relax Electron security settings (`contextIsolation`, `nodeIntegration`) to allow full SDK access during development.
 - For production apps, isolate SDK usage to preload scripts and use strict context bridging to reduce attack surface.
+
 

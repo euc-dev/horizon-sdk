@@ -1,12 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
-
 # Verify the browser-based WebRTC Redirection Sample Application
 
 As the final step of the Horizon WebRTC Redirection for web app setup, verify that the WebRTC Redirection sample web application is correctly configured.
@@ -36,4 +27,5 @@ If you see a **red "Not Connected"** label after launching the sample web applic
 **Example: Not Connected Status**
 
 ![](images/WebSDKBrowserSampleApp_NotConnected.png)
+
 

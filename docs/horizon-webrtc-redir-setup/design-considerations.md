@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Design Considerations
 
 Omnissa recommends that you consider the following design guidelines when implementing WebRTC media redirection for your UC application in a Horizon environment.
@@ -20,4 +13,5 @@ Omnissa recommends that you consider the following design guidelines when implem
 - Have your application fall back to non-VDI behavior when the Horizon Client endpoint does not support WebRTC redirection. In the fallback case, WebRTC media is not redirected but the user can still use your application and access all other functionality within the Horizon desktop. For more information, see scenario 12 under [Test Scenarios](test-scenarios.md) later in this document.
 
 - Design your application with the capability to differentiate between a console session and a Horizon Client remote session. In a console session, WebRTC media should not be redirected but users should still be able to use your application. This capability addresses the case where Horizon Agent is running on a physical machine and users can connect to this machine using either the console or Horizon Client.
+
 

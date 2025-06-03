@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `enumerateDevices()`
 
 Gets the media device list and returns it to the application.  
@@ -22,4 +15,5 @@ None
 ```js
 let _deviceList = await HorizonWebRtcRedirectionAPI.enumerateDevices();
 ```
+
 

@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Configure the Client and Run the App
 
 This section describes the steps to run the sample app included with the SDK.
@@ -25,4 +18,5 @@ This section describes the steps to run the sample app included with the SDK.
     ```
     In the example, `192.168.1.200` is the Web Socket server address, and `8443` is the port number configured in `./server/wsServer.js`. Replace these example values with your own information.
 4. To start the app, change to the `./client` directory and run `npm start`.
+
 

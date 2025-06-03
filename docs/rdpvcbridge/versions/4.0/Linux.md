@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Linux
 
 1.  Create a configuration file in the appropriate location:
@@ -30,3 +22,4 @@ The log file is located in one of the following locations:
     ```
     /tmp/v*****-<USER-NAME>/******-rdpvcbridge-Client-<pid>.log
     ```
+

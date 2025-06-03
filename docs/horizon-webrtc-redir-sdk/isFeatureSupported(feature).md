@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `isFeatureSupported(feature)`
 
 Checks whether the specified feature is supported by the SDK.
@@ -31,4 +24,5 @@ Checks whether the specified feature is supported by the SDK.
 ```js
 let _isSupported = HorizonWebRtcRedirectionAPI.isFeatureSupported("datachannel");
 ```
+
 

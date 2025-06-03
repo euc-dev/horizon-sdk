@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Data Types and Error Codes
 
 The Horizon Session Enhancement API has three groups of data types. The API also specifies error codes for various error conditions. 
@@ -291,4 +284,5 @@ List of all possible error codes for `VDPScreenCapture_Sink.v3.OnReadBackWindowR
 | `VDP_SCREEN_CAPTURE_REMOTE_ERROR_INVALID_PID`      | The remote window tracking failed because the requested window does not belong to the process specified.                 |
 | `VDP_SCREEN_CAPTURE_REMOTE_ERROR_UNSUPPORTED`      | The remote window tracking failed because the Horizon Agent does not support a requested capability.                     |
 | `VDP_SCREEN_CAPTURE_REMOTE_ERROR_CAPTURE_FAILED`   | The remote window tracking failed because the window on the remote desktop could not be captured.                        |
+
 

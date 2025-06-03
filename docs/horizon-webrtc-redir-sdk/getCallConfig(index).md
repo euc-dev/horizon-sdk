@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # `getCallConfig(index)`
 
 Helper function that processes call configurations and returns the associated `pcfId`.
@@ -29,3 +21,4 @@ Use this to retrieve configuration data when handling multiple call sessions or 
 let config = HorizonWebRtcRedirectionAPI.getCallConfig(0);
 console.log(config.pcfId);
 ```
+

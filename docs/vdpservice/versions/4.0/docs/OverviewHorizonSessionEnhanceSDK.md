@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Overview of the Omnissa Horizon Session Enhancement SDK
 
 With the Omnissa Horizon Session Enhancement Software Development Kit (SDK), you can develop applications that communicate between a client and a remote desktop over a Horizon connection using the Blast Extreme or PCoIP display protocol.
@@ -681,6 +674,7 @@ Make sure that the plug-ins have the execute permission. The plugin must be sign
 ## Sample Program Code
 
 The Horizon Session Enhancement SDK includes a directory called samples that contains examples of how to use the API.
+
 
 
 

@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Setting up a Developer Environment Using VADC
 
 You can quickly set up an environment to test the RDPVCBridge SDK at a small scale by using Horizon Agent Direct Connect (also known as VADC). VADC allows you to connect Horizon Client to the Horizon server without going through Horizon Connection Server.

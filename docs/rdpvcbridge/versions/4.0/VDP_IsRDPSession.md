@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # VDP_IsRDPSession 
 The Agent queries the local system to verify if it is running in an RDP session and returns a TRUE value if it is. 
 This includes both Horizon and Microsoft RDP sessions. 

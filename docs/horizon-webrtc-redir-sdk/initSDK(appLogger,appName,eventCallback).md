@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # `initSDK(appLogger, appName, eventCallback, sdkConfig)`
 
 Initializes the SDK so the application can access API methods.

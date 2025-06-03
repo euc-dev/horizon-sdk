@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # How to Use RDPVCBridge SDK
 
 Implementing RDPVCBridge only requires changes to be made on the server-side virtual channel application. There are no changes required on the existing client-side plug-ins.
@@ -91,3 +83,4 @@ You must add the following registry key and values:
    - Client versions 2412 and later - `/Library/.omnissa/rdpvcbridge` or `~/.omnissa/rdpvcbridge`
    - Client versions 2406 and earlier – `/Library/.*****/rdpvcbridge` or `~/.*****/rdpvcbridge`
    
+

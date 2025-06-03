@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `getWindowHandleForWebApp()`
 
 Returns the **window handle (hwnd)** for the current browser tab.
@@ -25,4 +18,5 @@ None
 ```js
 let hwnd = await VMwareWebRtcRedirectionAPI.getWindowHandleForWebApp();
 ```
+
 

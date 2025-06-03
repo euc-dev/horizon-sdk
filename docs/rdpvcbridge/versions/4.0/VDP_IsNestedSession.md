@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # VDP_IsNestedSession
 
 When this function is called in the Agent's context (the ideal use case), the Agent sends a message to the Client asking if the Client is running in an ongoing Horizon session.

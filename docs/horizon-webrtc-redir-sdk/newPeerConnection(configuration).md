@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # `newPeerConnection(configuration)`
 
 Creates a new `RTCPeerConnection` object.  

@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 ## Verify the WebRTC Redirection Sample Application
 
 As the final step of the Horizon WebRTC Redirection setup, verify that the WebRTC Redirection sample application is correctly configured.
@@ -36,5 +29,6 @@ In this status, the application falls back to calling the built-in Electron WebR
 **Example: Not Connected Status**
 
 ![](images/WebRTCRedirectionsampleapp_NotConnectedstatus.png)
+
 
 

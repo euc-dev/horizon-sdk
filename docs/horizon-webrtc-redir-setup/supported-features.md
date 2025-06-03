@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Supported Features
 The Horizon SDK for WebRTC Redirection supports the following features:
 
@@ -16,4 +9,5 @@ The Horizon SDK for WebRTC Redirection supports the following features:
 - Mute/unmute
 - PSTN calls (DTMF calling)
 - Data channel
+
 

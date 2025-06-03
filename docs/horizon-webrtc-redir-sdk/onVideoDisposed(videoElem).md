@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `onVideoDisposed(videoElem)`
 
 Cleans up a previously bound video element when it’s removed.
@@ -22,4 +15,5 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.onVideoDisposed(_myVideoElem);
 ```
+
 

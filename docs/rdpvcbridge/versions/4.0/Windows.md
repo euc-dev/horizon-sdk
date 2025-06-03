@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Windows
 
 1.  To change the default logging level, set the following registry entries on both the Agent and the Client systems. The following example changes the logging level to TRACE.
@@ -57,3 +49,4 @@ The log files can be found in the following locations.
 </tr>
 </tbody>
 </table>
+

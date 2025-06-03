@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Test Scenarios
 Omnissa recommends running the following test scenarios to verify that your UC application works as expected with Media Optimization enabled through the Horizon SDK for WebRTC Redirection.
 
@@ -27,4 +20,5 @@ Omnissa recommends running the following test scenarios to verify that your UC a
 
 > For more about fallback and RTAV behavior, see:  
 > [System Requirements for Real-Time Audio-Video](https://docs.omnissa.com/bundle/Horizon-Remote-Desktop-FeaturesV2206/page/SystemRequirementsforReal-TimeAudio-Video.html)
+
 

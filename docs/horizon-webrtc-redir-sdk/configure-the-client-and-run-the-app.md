@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Configure the Client and Run the App
 
 ### Configure electron client and run
@@ -37,3 +29,4 @@ hide:
 "https://httpServerIpAddress:3000/*"=""
 ```
 5. Close and reopen the VM then navigate to https://httpServerIpAddress:3000/webIndex.html?callServerUrl=wss://signalingServerIpAddress:8443
+

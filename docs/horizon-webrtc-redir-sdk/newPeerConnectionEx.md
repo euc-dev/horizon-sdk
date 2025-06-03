@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # `newPeerConnectionEx(arg1, arg2, callConfig)`
 
 Creates a new `RTCPeerConnection` object.  
@@ -28,4 +20,5 @@ This is similar to the [`RTCPeerConnection` constructor](https://developer.mozil
 let callConfig = HorizonWebRtcRedirectionAPI.getCallConfig(configIndex);
 let pc = HorizonWebRtcRedirectionAPI.newPeerConnectionEx(_configurations, {}, callConfig);
 ```
+
 

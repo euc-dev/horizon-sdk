@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `getReceiverCapabilities(kind)`
 
 Acquires the `RTCRtpReceiver` capabilities on the client side.  
@@ -25,4 +18,5 @@ This function is similar to [`RTCRtpReceiver.getCapabilities()`](https://develop
 ```js
 let _caps = HorizonWebRtcRedirectionAPI.getReceiverCapabilities("video");
 ```
+
 

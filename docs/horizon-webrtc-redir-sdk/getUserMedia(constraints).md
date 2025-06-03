@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `getUserMedia(constraints)`
 
 Retrieves the media stream from the local media device and returns it to the application.  
@@ -25,4 +18,5 @@ This function is similar to [`MediaDevices.getUserMedia()`](https://developer.mo
 ```js
 let _stream = await HorizonWebRtcRedirectionAPI.getUserMedia(_constraints);
 ```
+
 

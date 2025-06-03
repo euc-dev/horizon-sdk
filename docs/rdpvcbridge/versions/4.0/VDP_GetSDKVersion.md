@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # VDP_GetSDKVersion
 
 This function returns the current version of Horizon stored in the DLL properties, for example, "8.1.0".

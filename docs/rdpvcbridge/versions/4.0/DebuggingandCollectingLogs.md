@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Debugging and Collecting Logs
 
 RDPVCBridge writes messages to log files to facilitate debugging.

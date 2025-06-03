@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Virtual Channel Security
 
 This topic describes the security features of virtual channels which run over Horizon session connections.
@@ -19,3 +11,4 @@ For detailed information about the types of security offered by the supported pr
 To configure the cipher suites and protocols used by the client, follow the client-specific procedure described in [Configuring Security Protocols and Cipher Suites for Specific Client Types](https://docs.omnissa.com/bundle/Horizon-Security/page/ConfiguringSecurityProtocolsandCipherSuitesforSpecificClientTypes.html) in the [Omnissa Documentation](https://docs.omnissa.com/).
 
 For information about the security features of Horizon Cloud Service, see the [Horizon Cloud Service – next-gen Security Overview](https://techzone.omnissa.com/resource/horizon-cloud-service-%E2%80%93-next-gen-security-overview) technical white paper, available from [Omnissa Tech Zone](https://techzone.omnissa.com/).
+

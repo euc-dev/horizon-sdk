@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Introduction
 
 Omnissa provides several software development kit (SDK) products, each of which targets different developer communities and platforms.

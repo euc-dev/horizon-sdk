@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Support Policy
 
 The RDPVCBridge SDK is free, public, and unsupported. However, we do offer paid development consulting on request. Contact us at Horizon-View-RDPVCBridge-SDKSupport@omnissa.com for more information. 

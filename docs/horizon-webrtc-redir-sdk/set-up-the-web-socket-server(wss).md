@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Set Up the Signaling Server
 You can set up the web server (https) and signaling server on either the same machine or on different machines. The servers can either share the same certificate-and-key pair or use different ones.
 1. Make sure you have NodeJS(latest stable version will be good enough) installed in your environment.
@@ -24,3 +16,4 @@ You can set up the web server (https) and signaling server on either the same ma
    |--- key.pem
 ```   
 5. Enter ./sigServer folder, execute: 'npm install' and then 'npm start' (or node wsServer.js)
+

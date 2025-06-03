@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `getDisplayMedia(constraints)`
 
 Captures the contents of the remote desktop as a media stream and returns the stream to the application.  
@@ -25,4 +18,5 @@ This function is similar to [`MediaDevices.getDisplayMedia()`](https://developer
 ```js
 let _stream = await HorizonWebRtcRedirectionAPI.getDisplayMedia(_constraints);
 ```
+
 

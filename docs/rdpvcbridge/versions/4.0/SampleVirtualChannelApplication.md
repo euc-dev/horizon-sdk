@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # Sample Virtual Channel Application
 
 The RDPVCBridge SDK contains a sample virtual channel application called `vchan-ping`. This application creates a virtual channel and sends a simple string using the virtual channel four times to the Client.

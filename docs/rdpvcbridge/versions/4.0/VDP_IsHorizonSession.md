@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # VDP_IsHorizonSession
 
 The Agent queries the local system to verify if it is running in a Horizon session and returns a TRUE value if it is. The sessions supported are those using any of the protocols that Horizon supports: Blast, PCoIP, or RDP. The Agent's query returns a FALSE when the local system is not running in a Horizon session, including not being in a remote session or establishing a remote session using a different application, such as Microsoft Remote Desktop Connection. 

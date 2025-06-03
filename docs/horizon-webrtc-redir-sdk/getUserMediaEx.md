@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # `getUserMediaEx(constraints, callConfig)`
 
 Retrieves the media stream from the local media device and returns it to the application.  

@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `onScreenSelected(screenId)`
 
 Selects the preferred monitor to use for screen sharing.
@@ -22,4 +15,5 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.onScreenSelected("monitor01");
 ```
+
 

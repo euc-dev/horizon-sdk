@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `setPrimarySinkId(sinkId)`
 
 Sets the default output device for audio playback on the client.
@@ -22,4 +15,5 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.setPrimarySinkId("audioDevice01");
 ```
+
 

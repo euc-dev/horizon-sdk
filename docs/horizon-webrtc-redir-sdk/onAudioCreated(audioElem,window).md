@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `onAudioCreated(audioElem, window)`
 
 Binds an audio element to the SDK for playback redirection on the client.
@@ -23,4 +16,5 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.onAudioCreated(_myAudioElem, "6810070000000000");
 ```
+
 

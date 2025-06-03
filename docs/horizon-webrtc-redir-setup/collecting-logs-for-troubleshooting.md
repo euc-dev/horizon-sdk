@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # Collecting Logs for Troubleshooting
 
 If you experience any issues on the client endpoint or agent machine, collect the necessary logs to assist your Omnissa support representative in troubleshooting.
@@ -64,4 +57,5 @@ support.bat
 ```
 
 4. The generated `.zip` folder will appear in the `hzn-sdct` folder on the desktop. Upload this zip for Omnissa Support.
+
 

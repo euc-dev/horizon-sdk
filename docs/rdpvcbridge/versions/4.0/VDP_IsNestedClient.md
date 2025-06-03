@@ -1,11 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
-
 # VDP_IsNestedClient
 
 This API is called by the client plug-in that was loaded by the client-side RDPVCBridge.

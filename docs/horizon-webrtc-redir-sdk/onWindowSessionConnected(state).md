@@ -1,10 +1,3 @@
----
-layout: page
-title: Horizon webRTC Redirection SDK
-hide:
-  #- navigation
-  - toc
----
 # `onWindowSessionConnected(state)`
 
 Notifies the SDK about the session’s connection status.
@@ -22,4 +15,5 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.onWindowSessionConnected(true);
 ```
+
 
