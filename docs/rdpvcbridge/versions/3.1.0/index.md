@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Horizon RDP VC Bridge SDK v3.1.0
+title: Horizon webRTC Redirection SDK
 hide:
   #- navigation
   - toc
@@ -27,3 +27,4 @@ This software is licensed under the [Omnissa Software Development Kit (SDK) Lice
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 This software may also utilize Third-Pary Open Source Software as detailed within the [open_source_licenses.txt](open_source_licenses.txt) file.
+
