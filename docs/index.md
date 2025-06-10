@@ -12,12 +12,12 @@ The following SDKs are provided for Horizon environments.
 
 - title: Horizon Session Enhancement SDK
   #content: 
-  url: vdpservice/index.md
+  url: ./vdpservice/index.md
   image: ../../../assets/logos/Horizon-v-lm.png
 
 - title: Horizon RDP VC Bridge SDK
   #content: 
-  url: rdpvcbridge/index.md
+  url: ./rdpvcbridge/index.md
   image: ../../../assets/logos/Horizon-v-lm.png
 
 ::/cards::
