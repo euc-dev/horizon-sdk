@@ -163,3 +163,5 @@ nav:
     #   - v3.0: view-session-management/versions/3.0/index.md
     #   - v2.0: view-session-management/versions/2.0/index.md
     #   - v1.0: view-session-management/versions/1.0/index.md
+  - Horizon SDK for WebRTC Redirection Setup Guide: horizon-webrtc-redir-setup/index.md
+  - Horizon SDK for WebRTC Redirection SDK: horizon-webrtc-redir-sdk/index.md
