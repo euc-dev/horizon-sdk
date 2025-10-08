@@ -1,4 +1,10 @@
-# About the Omnissa Horizon WebRTC Redirection API
+---
+layout: page
+title: About the Omnissa Horizon WebRTC Redirection API
+hide:
+  #- navigation
+  - toc
+---
 
 The Omnissa Horizon WebRTC Redirection API specifies how the client side and the desktop side of an Electron application can communicate over a Horizon connection to accomplish WebRTC-based media redirection. Most of the interactions with the API are asynchronous.
 

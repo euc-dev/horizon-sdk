@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Horizon webRTC Redirection SDK
+title: Horizon SDK for WebRTC Redirection Setup Guide
 hide:
   #- navigation
   - toc
 ---
-
-# Horizon SDK for WebRTC Redirection Setup Guide
 
 - [Introduction](introduction.md)
 - [Supported Features](supported-features.md)
@@ -22,12 +20,6 @@ hide:
 - [Test Scenarios](test-scenarios.md)
 - [Collecting Logs for Troubleshooting](collecting-logs-for-troubleshooting.md)
 
-
-## webRTC.....
-
-Horizon webRTC redir SDK allows partners to .....
-
-One use case is that ....
 
 This SDK is free and public. To obtain technical support for the use of the SDK, please submit a Support Request (SR) via [Omnissa Customer Connect](https://customerconnect.omnissa.com/home) to get help from the Omnissa Global Customer Services (GCS).
 
@@ -52,5 +44,5 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 | Name | Size	|
 | --- | --- |
 | Development Guides |  |
-| [Omnissa Horizon RDP Virtual Channel Bridge SDK Programming Guide](./versions/3.3.0/horizon-RDP-virtual-channel-bridge-SDK-33-programming-guide.pdf) | 523.9 KB |
+| [Horizon SDK for WebRTC Redirection Setup Guide](./horizon_sdk_for_webrtc_redirection_setup_guide_2025-05-28-09-39-33.pdf) | 1.7 MB |
 

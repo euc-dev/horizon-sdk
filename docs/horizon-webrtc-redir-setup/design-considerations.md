@@ -1,4 +1,10 @@
-# Design Considerations
+---
+layout: page
+title: Design Considerations
+hide:
+  #- navigation
+  - toc
+---
 
 Omnissa recommends that you consider the following design guidelines when implementing WebRTC media redirection for your UC application in a Horizon environment.
 

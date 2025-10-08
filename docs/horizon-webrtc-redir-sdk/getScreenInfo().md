@@ -1,4 +1,10 @@
-# `getScreenInfo()`
+---
+layout: page
+title: getScreenInfo()
+hide:
+  #- navigation
+  - toc
+---
 
 Gets information about the monitors connected to the client system.
 

@@ -1,4 +1,11 @@
-# Supported Features
+---
+layout: page
+title: Supported Features
+hide:
+  #- navigation
+  - toc
+---
+
 The Horizon SDK for WebRTC Redirection supports the following features:
 
 - Audio and video redirection in VDI desktops

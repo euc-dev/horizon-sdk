@@ -1,5 +1,10 @@
-# Sample Application Setup
-
+---
+layout: page
+title: Sample Application Setup
+hide:
+  #- navigation
+  - toc
+---
 The Horizon SDK includes a **sample Electron application** that demonstrates how to implement WebRTC Redirection. You can use it as a reference or as a starting point for your own UC (unified communication) application.
 
 ---

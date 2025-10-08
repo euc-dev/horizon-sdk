@@ -1,4 +1,10 @@
-# Configure the Client and Run the App
+---
+layout: page
+title: Configure the Client and Run the App
+hide:
+  #- navigation
+  - toc
+---
 
 This section describes the steps to run the sample app included with the SDK.
 

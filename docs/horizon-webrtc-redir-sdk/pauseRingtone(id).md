@@ -1,4 +1,10 @@
-# `pauseRingtone(id)`
+---
+layout: page
+title: pauseRingtone(id)
+hide:
+  #- navigation
+  - toc
+---
 
 Pauses a ringtone that’s currently playing on the client.
 

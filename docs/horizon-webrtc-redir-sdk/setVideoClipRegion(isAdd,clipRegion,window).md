@@ -1,4 +1,10 @@
-# `setVideoClipRegion(isAdd, clipRegion, window)`
+---
+layout: page
+title: setVideoClipRegion(isAdd, clipRegion, window)
+hide:
+  #- navigation
+  - toc
+---
 
 Adds or removes a clipped video display region on the client, associated with a specific application window.
 

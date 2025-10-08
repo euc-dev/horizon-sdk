@@ -1,4 +1,10 @@
-# Setting Up the Sample Application
+---
+layout: page
+title: Setting Up the Sample Application
+hide:
+  #- navigation
+  - toc
+---
 
 The Horizon SDK for WebRTC Redirection includes a sample folder containing a sample Electron application that shows examples of how to use the API. You can run the sample app on either your local machine or remote desktop.
 

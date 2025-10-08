@@ -1,4 +1,10 @@
-# Set Up the Web Server (https)
+---
+layout: page
+title: Set Up the Web Server (https)
+hide:
+  #- navigation
+  - toc
+---
 
 1. Make sure you have NodeJS(latest stable version will be good enough) installed in your environment. For the httpServer you can also use any other statically hosting solution.
 2. Copy the httpServer folder to the location you want to host.

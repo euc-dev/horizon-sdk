@@ -1,4 +1,10 @@
-## Verify the WebRTC Redirection Sample Application
+---
+layout: page
+title: Verify the WebRTC Redirection Sample Application
+hide:
+  #- navigation
+  - toc
+---
 
 As the final step of the Horizon WebRTC Redirection setup, verify that the WebRTC Redirection sample application is correctly configured.
 

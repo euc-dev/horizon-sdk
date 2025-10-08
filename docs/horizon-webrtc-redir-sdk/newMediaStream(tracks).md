@@ -1,4 +1,10 @@
-# `newMediaStream(tracks)`
+---
+layout: page
+title: newMediaStream(tracks)
+hide:
+  #- navigation
+  - toc
+---
 
 Creates a new `MediaStream` object for the application.  
 This is similar to the [`MediaStream` constructor](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream/MediaStream).

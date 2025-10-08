@@ -1,4 +1,10 @@
-# `onAudioCreated(audioElem, window)`
+---
+layout: page
+title: onAudioCreated(audioElem, window)
+hide:
+  #- navigation
+  - toc
+---
 
 Binds an audio element to the SDK for playback redirection on the client.
 

@@ -1,4 +1,10 @@
-# `onVideoCreated(videoElem, window)`
+---
+layout: page
+title: onVideoCreated(videoElem, window)
+hide:
+  #- navigation
+  - toc
+---
 
 Binds a video element to the SDK for display redirection on the client.
 

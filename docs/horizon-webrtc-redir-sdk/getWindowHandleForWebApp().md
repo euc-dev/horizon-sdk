@@ -1,4 +1,10 @@
-# `getWindowHandleForWebApp()`
+---
+layout: page
+title: getWindowHandleForWebApp()
+hide:
+  #- navigation
+  - toc
+---
 
 Returns the **window handle (hwnd)** for the current browser tab.
 

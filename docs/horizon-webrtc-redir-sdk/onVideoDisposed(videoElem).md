@@ -1,4 +1,10 @@
-# `onVideoDisposed(videoElem)`
+---
+layout: page
+title: onVideoDisposed(videoElem)
+hide:
+  #- navigation
+  - toc
+---
 
 Cleans up a previously bound video element when it’s removed.
 

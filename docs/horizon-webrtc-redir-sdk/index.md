@@ -6,11 +6,7 @@ hide:
   - toc
 ---
 
-# webRTC.....
-
-Horizon webRTC redir SDK allows partners to .....
-
-One use case is that ....
+The Omnissa Horizon® SDK for WebRTC Redirection provides access to interfaces that WebRTC-based UC vendors can use to leverage the Media Optimization feature of Horizon Client and Horizon remote desktops. The SDK enables the offloading of audio, video, and screenshare content to the local client system.
 
 This SDK is free and public. To obtain technical support for the use of the SDK, please submit a Support Request (SR) via [Omnissa Customer Connect](https://customerconnect.omnissa.com/home) to get help from the Omnissa Global Customer Services (GCS).
 
@@ -35,7 +31,7 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 | Name | Size	|
 | --- | --- |
 | Development Guides |  |
-| [Omnissa Horizon RDP Virtual Channel Bridge SDK Programming Guide](./versions/3.3.0/horizon-RDP-virtual-channel-bridge-SDK-33-programming-guide.pdf) | 523.9 KB |
+| [Omnissa Horizon SDK for WebRTC Redirection Programming Guide](./horizon_sdk_for_webrtc_redirection_programming_guide_2025-05-30-05-45-41.pdf) | 249 KB |
 
 
 - [Introduction](introduction.md) 

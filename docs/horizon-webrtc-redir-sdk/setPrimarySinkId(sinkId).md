@@ -1,4 +1,10 @@
-# `setPrimarySinkId(sinkId)`
+---
+layout: page
+title: setPrimarySinkId(sinkId)
+hide:
+  #- navigation
+  - toc
+---
 
 Sets the default output device for audio playback on the client.
 
