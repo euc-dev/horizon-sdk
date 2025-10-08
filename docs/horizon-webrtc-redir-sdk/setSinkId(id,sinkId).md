@@ -1,4 +1,10 @@
-# `setSinkId(id, sinkId)`
+---
+layout: page
+title: setSinkId(id, sinkId)
+hide:
+  #- navigation
+  - toc
+---
 
 Sets the audio output device for a specific sound stream (e.g., a ringtone or alert).
 

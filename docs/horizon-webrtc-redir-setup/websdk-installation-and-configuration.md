@@ -1,4 +1,10 @@
-# Installation and Configuration for browser-based WebRTC application
+---
+layout: page
+title: Installation and Configuration for browser-based WebRTC application
+hide:
+  #- navigation
+  - toc
+---
 
 This section describes the SDK installation and setup procedures for browser-based WebRTC application
 

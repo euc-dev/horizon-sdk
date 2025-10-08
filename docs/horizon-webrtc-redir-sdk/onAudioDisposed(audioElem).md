@@ -1,4 +1,10 @@
-# `onAudioDisposed(audioElem)`
+---
+layout: page
+title: onAudioDisposed(audioElem)
+hide:
+  #- navigation
+  - toc
+---
 
 Cleans up a previously bound audio element when it’s destroyed.
 

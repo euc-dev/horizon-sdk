@@ -1,4 +1,10 @@
-# `onScreenSelected(screenId)`
+---
+layout: page
+title: onScreenSelected(screenId)
+hide:
+  #- navigation
+  - toc
+---
 
 Selects the preferred monitor to use for screen sharing.
 

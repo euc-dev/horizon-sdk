@@ -1,4 +1,10 @@
-# Configure the Client and Run the App
+---
+layout: page
+title: Configure the Client and Run the App
+hide:
+  #- navigation
+  - toc
+---
 
 ### Configure electron client and run
 1. Make sure you have NodeJS(latest stable version will be good enough) installed in your environment.

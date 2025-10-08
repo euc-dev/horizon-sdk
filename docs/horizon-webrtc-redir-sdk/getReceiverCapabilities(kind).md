@@ -1,4 +1,10 @@
-# `getReceiverCapabilities(kind)`
+---
+layout: page
+title: getReceiverCapabilities(kind)
+hide:
+  #- navigation
+  - toc
+---
 
 Acquires the `RTCRtpReceiver` capabilities on the client side.  
 This function is similar to [`RTCRtpReceiver.getCapabilities()`](https://developer.mozilla.org/en-US/docs/Web/API/RTCRtpReceiver/getCapabilities).

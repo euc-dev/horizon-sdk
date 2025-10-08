@@ -1,4 +1,10 @@
-## Introduction
+---
+layout: page
+title: Introduction
+hide:
+  #- navigation
+  - toc
+---
 
 This document provides Omnissa partners with step-by-step instructions on how to set up a Horizon environment for WebRTC Redirection of media streams in unified communication (UC) applications.
 

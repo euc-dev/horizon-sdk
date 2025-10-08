@@ -1,4 +1,10 @@
-# `getDisplayMedia(constraints)`
+---
+layout: page
+title: getDisplayMedia(constraints)
+hide:
+  #- navigation
+  - toc
+---
 
 Captures the contents of the remote desktop as a media stream and returns the stream to the application.  
 This function is similar to [`MediaDevices.getDisplayMedia()`](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getDisplayMedia).

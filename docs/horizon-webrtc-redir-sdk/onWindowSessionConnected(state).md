@@ -1,4 +1,10 @@
-# `onWindowSessionConnected(state)`
+---
+layout: page
+title: onWindowSessionConnected(state)
+hide:
+  #- navigation
+  - toc
+---
 
 Notifies the SDK about the session’s connection status.
 

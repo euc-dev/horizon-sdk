@@ -1,4 +1,10 @@
-# `newPeerConnectionEx(arg1, arg2, callConfig)`
+---
+layout: page
+title: newPeerConnectionEx(arg1, arg2, callConfig)
+hide:
+  #- navigation
+  - toc
+---
 
 Creates a new `RTCPeerConnection` object.  
 This is similar to the [`RTCPeerConnection` constructor](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection/RTCPeerConnection).

@@ -1,4 +1,10 @@
-# `playRingtone(id, src, isLoop)`
+---
+layout: page
+title: playRingtone(id, src, isLoop)
+hide:
+  #- navigation
+  - toc
+---
 
 Plays a ringtone on the client system using a local or remote audio source.
 

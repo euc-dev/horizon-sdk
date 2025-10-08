@@ -1,4 +1,10 @@
-# `isFeatureSupported(feature)`
+---
+layout: page
+title: isFeatureSupported(feature)
+hide:
+  #- navigation
+  - toc
+---
 
 Checks whether the specified feature is supported by the SDK.
 

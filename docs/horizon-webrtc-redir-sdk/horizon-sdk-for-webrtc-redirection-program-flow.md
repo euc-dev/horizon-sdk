@@ -1,4 +1,10 @@
-# Horizon SDK for WebRTC Redirection Program Flow
+---
+layout: page
+title: Horizon SDK for WebRTC Redirection Program Flow
+hide:
+  #- navigation
+  - toc
+---
 
 A typical Horizon WebRTC Redirection program flow involves two phases:
 1. Initialization of the Application

@@ -1,4 +1,10 @@
-# `initSDK(appLogger, appName, eventCallback, sdkConfig)`
+---
+layout: page
+title: initSDK(appLogger, appName, eventCallback, sdkConfig)
+hide:
+  #- navigation
+  - toc
+---
 
 Initializes the SDK so the application can access API methods.
 

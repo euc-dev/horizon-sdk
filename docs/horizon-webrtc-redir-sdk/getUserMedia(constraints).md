@@ -1,4 +1,10 @@
-# `getUserMedia(constraints)`
+---
+layout: page
+title: getUserMedia(constraints)
+hide:
+  #- navigation
+  - toc
+---
 
 Retrieves the media stream from the local media device and returns it to the application.  
 This function is similar to [`MediaDevices.getUserMedia()`](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia).

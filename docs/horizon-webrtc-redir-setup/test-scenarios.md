@@ -1,4 +1,11 @@
-# Test Scenarios
+---
+layout: page
+title: Test Scenarios
+hide:
+  #- navigation
+  - toc
+---
+
 Omnissa recommends running the following test scenarios to verify that your UC application works as expected with Media Optimization enabled through the Horizon SDK for WebRTC Redirection.
 
 > **Note:** Scenario 12 tests fallback behavior when the client does not support Media Optimization but the remote desktop does. In this case, the app should still function using the Real-Time Audio-Video (RTAV) feature.

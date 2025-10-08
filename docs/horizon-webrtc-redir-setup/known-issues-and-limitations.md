@@ -1,4 +1,11 @@
-## Known Issues and Limitations
+---
+layout: page
+title: Known Issues and Limitations
+hide:
+  #- navigation
+  - toc
+---
+
 The Horizon SDK for WebRTC Redirection does not support the following functionality:
 
 - Linux and Mac clients

@@ -1,4 +1,10 @@
-# `getCallConfig(index)`
+---
+layout: page
+title: getCallConfig(index)
+hide:
+  #- navigation
+  - toc
+---
 
 Helper function that processes call configurations and returns the associated `pcfId`.
 

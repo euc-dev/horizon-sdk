@@ -1,4 +1,10 @@
-# Horizon Agent Installation and Configuration
+---
+layout: page
+title: Horizon Agent Installation and Configuration
+hide:
+  #- navigation
+  - toc
+---
 
 The Horizon WebRTC Redirection feature is installed by default with Horizon Agent as part of the core feature set.
 

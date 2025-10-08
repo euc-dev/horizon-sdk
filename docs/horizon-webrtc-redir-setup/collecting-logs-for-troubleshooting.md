@@ -1,4 +1,10 @@
-# Collecting Logs for Troubleshooting
+---
+layout: page
+title: Collecting Logs for Troubleshooting
+hide:
+  #- navigation
+  - toc
+---
 
 If you experience any issues on the client endpoint or agent machine, collect the necessary logs to assist your Omnissa support representative in troubleshooting.
 

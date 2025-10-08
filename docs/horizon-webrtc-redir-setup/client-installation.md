@@ -1,4 +1,10 @@
-# Client Installation
+---
+layout: page
+title: Client Installation
+hide:
+  #- navigation
+  - toc
+---
 
 The Horizon WebRTC Redirection option is installed and enabled in Horizon Client for Windows by default.
 

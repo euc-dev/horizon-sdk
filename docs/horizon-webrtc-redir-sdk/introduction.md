@@ -1,4 +1,10 @@
-# Introduction
+---
+layout: page
+title: Introduction
+hide:
+  #- navigation
+  - toc
+---
 
 Omnissa provides several software development kit (SDK) products, each of which targets different developer communities and platforms.
 
