@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Installation and Configuration for browser-based WebRTC application
+title: Installation and Configuration
 hide:
   #- navigation
   - toc
 ---
 
-This section describes the SDK installation and setup procedures for browser-based WebRTC application
+This section describes the SDK installation and setup procedures.
 
 ## System Requirements
+This section describes the system requirements for using the Horizon SDK for WebRTC Redirection.
+
+**Note:** System requirements for Real-Time Audio-Video (RTAV) are different and more substantial than when using the Horizon SDK for WebRTC Redirection. RTAV is used if Media Optimization is not turned on via GPO or if the endpoint does not support Media Optimization (fallback mode). For more information on using your application with RTAV, see the [System Requirements for Real-Time Audio-Video](https://docs.omnissa.com/bundle/Horizon-Remote-Desktop-FeaturesV2206/page/SystemRequirementsforReal-TimeAudio-Video.html) article.
 
 **Omnissa Horizon Client Version**
 - Minimum required version: 8.15.0 (Horizon 2503) for both agent and client<br>To support the latest features and interfaces of the SDK, ensure that you are running the latest release version of Horizon 8, which is available through [Omnissa Customer Connect](https://customerconnect.omnissa.com/downloads/info/slug/desktop_end_user_computing/omnissa_horizon_clients/8).
@@ -21,7 +24,7 @@ Horizon 2503 release is the first release to support call reconnection (ICE rest
 The SDK only supports Windows client endpoints at this time. Verify that each client system meets the following requirements:<br>
 - Windows 11 or Windows 10<br>
 - 2.4 GHz dual-core processor (minimum)<br>
-- Horizon Client for Windows 2503 or later
+- Horizon Client for Windows 2206 or later
 
 **Note:** For information about the operating systems supported for a specific version of Horizon Client, see the release notes for that client version.
 
@@ -36,4 +39,6 @@ Verify that the source virtual machine for each remote desktop meets the followi
 **UC Application**<br>
 The Horizon SDK for WebRTC Redirection supports UC applications built on the Electron software framework.
 
-**Note:** The SDK for browser-based WebRTC application only supports UC applications running on Omnissa VDI deployments. It does not support CEF, PWA.
+**Note:** The SDK only supports Electron-based UC applications running on Omnissa VDI deployments. It does not support CEF, PWA, or browser-based WebRTC applications.
+
+To implement media optimization for browser-based WebRTC applications, use the Browser Content Redirection feature described in the [Configuring Browser Redirection](https://docs.omnissa.com/bundle/Horizon-Remote-Desktop-FeaturesV2206/page/ConfiguringBrowserRedirection.html) article.

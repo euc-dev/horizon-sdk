@@ -26,5 +26,3 @@ Any Electron software that uses the Horizon WebRTC Redirection API must include:
 ## Supported Versions of Horizon Software
 
 To work with the Horizon SDK for WebRTC Redirection, your Horizon deployment must meet certain system and setup requirements. For detailed information, see the "Omnissa Horizon SDK for WebRTC Redirection Setup Guide".
-
-

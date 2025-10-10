@@ -44,5 +44,3 @@ let port = await window.getHorizonWSSPort();
 You may optionally configure your app to provide a log object to the SDK during initialization. If no log is provided or if it's invalid, the SDK will fall back to using its built-in logging, viewable in the browser console.
 
 > A valid logger should include methods like `error`, `info`, and `warn`, similar to the standard `console` object.
-
-

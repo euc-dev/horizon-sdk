@@ -24,5 +24,3 @@ This is similar to the [`MediaStream` constructor](https://developer.mozilla.org
 ```js
 let _stream = await HorizonWebRtcRedirectionAPI.newMediaStream(_tracks);
 ```
-
-

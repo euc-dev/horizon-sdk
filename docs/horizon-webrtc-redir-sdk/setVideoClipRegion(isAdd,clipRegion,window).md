@@ -23,5 +23,3 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.setVideoClipRegion(true, _myVideoElem, "6810070000000000");
 ```
-
-

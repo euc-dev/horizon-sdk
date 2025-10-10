@@ -24,5 +24,3 @@ None
 ```js
 let hwnd = await VMwareWebRtcRedirectionAPI.getWindowHandleForWebApp();
 ```
-
-

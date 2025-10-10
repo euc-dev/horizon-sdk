@@ -20,5 +20,3 @@ None
 ```js
 let _screenInfo = await HorizonWebRtcRedirectionAPI.getScreenInfo();
 ```
-
-
