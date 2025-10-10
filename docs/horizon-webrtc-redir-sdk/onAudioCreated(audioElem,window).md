@@ -22,5 +22,3 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.onAudioCreated(_myAudioElem, "6810070000000000");
 ```
-
-

@@ -27,4 +27,3 @@ let callConfig = HorizonWebRtcRedirectionAPI.getCallConfig(configIndex);
 let pc = HorizonWebRtcRedirectionAPI.newPeerConnectionEx(_configurations, {}, callConfig);
 ```
 
-

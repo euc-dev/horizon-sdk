@@ -21,5 +21,3 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.onVideoDisposed(_myVideoElem);
 ```
-
-

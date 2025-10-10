@@ -22,5 +22,3 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.onVideoCreated(_myVideoElem, "6810070000000000");
 ```
-
-

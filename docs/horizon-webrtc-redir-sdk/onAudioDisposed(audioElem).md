@@ -21,5 +21,3 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.onAudioDisposed(_myAudioElem);
 ```
-
-

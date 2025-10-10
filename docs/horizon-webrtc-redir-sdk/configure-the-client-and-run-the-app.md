@@ -22,10 +22,9 @@ hide:
 6. Enter ./client folder, execute: 'npm install' and then 'npm start'
 
 ### Configure web client and run
-1. Launch chrome browser and natigate to the url 
-2. Add the Horizon WebRTC SDK browser extension to your chrome browser.
-3. Note the IP address of your httpServer and the signaling server that will be used in step 4
-4. Configure the following registry keys.
+1. Add the Horizon WebRTC SDK browser extension to your chrome browser.
+2. Note the IP address of your httpServer and the signaling server that will be used in step 4
+3. Configure the following registry keys.
 ```
 [HKLM\SOFTWARE\Policies\Omnissa\Horizon\WebRTCRedirSDKWebApp]
 "enabled"=dword:00000001<br>
@@ -34,5 +33,4 @@ hide:
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Omnissa\Horizon\WebRTCRedirSDKWebApp\UrlAllowList]
 "https://httpServerIpAddress:3000/*"=""
 ```
-5. Close and reopen the VM then navigate to https://httpServerIpAddress:3000/webIndex.html?callServerUrl=wss://signalingServerIpAddress:8443
-
+4. Close and reopen the VM then navigate to https://httpServerIpAddress:3000/webIndex.html?callServerUrl=wss://signalingServerIpAddress:8443

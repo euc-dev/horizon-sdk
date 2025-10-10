@@ -20,6 +20,14 @@ Follow the appropriate procedure for your client platform to collect the client 
 1. Disconnect from the desktop session showing the problem.
 2. Open **Registry Editor** as Administrator on the Horizon Client endpoint.
 3. Add the following registry keys under:
+```
+HKEY_LOCAL_MACHINE\SOFTWARE\Omnissa\Horizon\HTML5MMR
+```
+
+```reg
+"html5mmr.log.noThrottle"=dword:00000001
+```
+
 
 ```
 HKEY_LOCAL_MACHINE\SOFTWARE\Omnissa\Horizon\HTML5MMR\WebRTCRedir
@@ -27,6 +35,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Omnissa\Horizon\HTML5MMR\WebRTCRedir
 
 ```reg
 "html5mmr.log.webrtc.sharedlib.internal"=dword:00000001
+"html5mmr.log.webrtc.sharedlib.network"=dword:00000001
+"html5mmr.log.webrtc.sharedlib.media"=dword:00000001
+"html5mmr.log.webrtc.sharedlib.signal"=dword:00000001
 "html5mmr.log.webrtc.allowFullText"=dword:00000001
 "html5mmr.log.webrtc.allowThrottle"=dword:00000000
 "html5mmr.log.noThrottle"=dword:00000001
@@ -63,5 +74,3 @@ support.bat
 ```
 
 4. The generated `.zip` folder will appear in the `hzn-sdct` folder on the desktop. Upload this zip for Omnissa Support.
-
-

@@ -24,5 +24,3 @@ This function is similar to [`MediaDevices.getDisplayMedia()`](https://developer
 ```js
 let _stream = await HorizonWebRtcRedirectionAPI.getDisplayMedia(_constraints);
 ```
-
-

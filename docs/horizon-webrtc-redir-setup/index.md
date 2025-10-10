@@ -45,4 +45,3 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 | --- | --- |
 | Development Guides |  |
 | [Horizon SDK for WebRTC Redirection Setup Guide](./horizon_sdk_for_webrtc_redirection_setup_guide_2025-05-28-09-39-33.pdf) | 1.7 MB |
-

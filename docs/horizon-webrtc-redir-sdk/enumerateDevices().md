@@ -21,5 +21,3 @@ None
 ```js
 let _deviceList = await HorizonWebRtcRedirectionAPI.enumerateDevices();
 ```
-
-

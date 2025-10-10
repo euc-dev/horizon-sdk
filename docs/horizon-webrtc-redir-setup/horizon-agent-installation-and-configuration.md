@@ -38,5 +38,3 @@ However, the feature is installed in deactivated state. You must manually activa
 2. Verify that the **electronAppEnabled** registry key is present in that folder.
 
 ![](images/WebRTCRedirGPOPolicyRegistry.png)
-
-
