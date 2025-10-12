@@ -24,5 +24,3 @@ This function is similar to [`RTCRtpReceiver.getCapabilities()`](https://develop
 ```js
 let _caps = HorizonWebRtcRedirectionAPI.getReceiverCapabilities("video");
 ```
-
-

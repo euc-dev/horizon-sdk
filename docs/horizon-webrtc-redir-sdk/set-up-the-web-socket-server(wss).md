@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Set Up the Signaling Server
+title: Set Up the Signaling Server (WebSocket)
 hide:
   #- navigation
   - toc
@@ -23,4 +23,3 @@ You can set up the web server (https) and signaling server on either the same ma
    |--- key.pem
 ```   
 5. Enter ./sigServer folder, execute: 'npm install' and then 'npm start' (or node wsServer.js)
-

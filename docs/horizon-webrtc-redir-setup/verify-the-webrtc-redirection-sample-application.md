@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Verify the WebRTC Redirection Sample Application
+title: Verify the webRTC Redirection Sample Application
 hide:
   #- navigation
   - toc
@@ -35,6 +35,5 @@ In this status, the application falls back to calling the built-in Electron WebR
 **Example: Not Connected Status**
 
 ![](images/WebRTCRedirectionsampleapp_NotConnectedstatus.png)
-
 
 

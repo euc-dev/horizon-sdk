@@ -30,5 +30,3 @@ Checks whether the specified feature is supported by the SDK.
 ```js
 let _isSupported = HorizonWebRtcRedirectionAPI.isFeatureSupported("datachannel");
 ```
-
-

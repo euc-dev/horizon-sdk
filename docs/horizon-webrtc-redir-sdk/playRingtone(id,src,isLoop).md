@@ -23,5 +23,3 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.playRingtone("audio01", "https://example.com/ringtone.mp3", true);
 ```
-
-

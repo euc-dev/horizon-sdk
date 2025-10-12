@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Set Up the Web Server (https)
+title: Set Up the Web Server (HTTPS)
 hide:
   #- navigation
   - toc

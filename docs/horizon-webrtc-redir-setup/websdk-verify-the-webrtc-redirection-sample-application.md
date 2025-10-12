@@ -14,7 +14,7 @@ For detailed information, see:<br>
 - **"Setting Up the Sample Application"** in the *Omnissa Horizon SDK for WebRTC Redirection Programming Guide*<br>
 - Instructions in `sample\README.txt` in the SDK zip file
 
-## To verify the test application setup:
+### To verify the test application setup:
 
 1. **Launch** Chrome browser and nagivate to the WebRTC Redirection sample web application URL.
 2. **Wait a few seconds** for the application to establish a connection to the agent machine.
@@ -33,5 +33,4 @@ If you see a **red "Not Connected"** label after launching the sample web applic
 **Example: Not Connected Status**
 
 ![](images/WebSDKBrowserSampleApp_NotConnected.png)
-
 

@@ -1,14 +1,42 @@
 ---
 layout: page
-title: Horizon webRTC Redirection SDK
+title: Horizon SDK for WebRTC Redirection Programming Guide
 hide:
   #- navigation
   - toc
 ---
 
-The Omnissa Horizon® SDK for WebRTC Redirection provides access to interfaces that WebRTC-based UC vendors can use to leverage the Media Optimization feature of Horizon Client and Horizon remote desktops. The SDK enables the offloading of audio, video, and screenshare content to the local client system.
-
-This SDK is free and public. To obtain technical support for the use of the SDK, please submit a Support Request (SR) via [Omnissa Customer Connect](https://customerconnect.omnissa.com/home) to get help from the Omnissa Global Customer Services (GCS).
+- [Introduction](introduction.md) 
+- [About the Omnissa Horizon WebRTC Redirection API](about-the-omnissa-horizon-webrtc-redirection-api.md)
+- [Horizon SDK for WebRTC Redirection Program Flow](horizon-sdk-for-webrtc-redirection-program-flow.md) 
+- [Basic WebRTC API Reference](basic-webrtc-api-reference.md) 
+    - [enumerateDevices()](enumerateDevices().md)
+    - [getCallConfig(index)](getCallConfig(index).md)
+    - [getDisplayMedia(constraints)](getDisplayMedia(constraints).md) 
+    - [getReceiverCapabilities(kind)](getReceiverCapabilities(kind).md)
+    - [getScreenInfo()](getScreenInfo().md) 
+    - [getUserMedia (constraints)](getUserMedia(constraints).md)
+    - [getUserMediaEx(constraints, callConfig)](getUserMediaEx.md)
+    - [initSDK (appLogger, appName, eventCallback, sdkConfig)](initSDK(appLogger,appName,eventCallback).md)
+    - [isFeatureSupported (feature)](isFeatureSupported(feature).md) 
+    - [newMediaStream(tracks)](newMediaStream(tracks).md) 
+    - [newPeerConnection(configuration)](newPeerConnection(configuration).md)
+    - [newPeerConnectionEx(configuration, arg2, callConfig)](newPeerConnectionEx.md) 
+    - [onAudioCreated(audioElem, window)](onAudioCreated(audioElem,window).md) 
+    - [onAudioDisposed(audioElem)](onAudioDisposed(audioElem).md) 
+    - [onScreenSelected(screenId)](onScreenSelected(screenId).md) 
+    - [onVideoCreated(videoElem, window)](onVideoCreated(videoElem,window).md)
+    - [onVideoDisposed(videoElem)](onVideoDisposed(videoElem).md) 
+    - [onWindowSessionConnected(state)](onWindowSessionConnected(state).md)
+    - [pauseRingtone(id)](pauseRingtone(id).md) 
+    - [playRingtone(id,src,isLoop)](playRingtone(id,src,isLoop).md) 
+    - [setPrimarySinkId(sinkId)](setPrimarySinkId(sinkId).md) 
+    - [setSinkId(id,sinkId)](setSinkId(id,sinkId).md) 
+    - [setVideoClipRegion (isAdd,clipRegion,window)](setVideoClipRegion(isAdd,clipRegion,window).md) 
+- [Setting Up the Sample Application](setting-up-the-sample-application.md)
+    - [Set Up the Web Server (https)](set-up-the-web-server(https).md) 
+    - [Set Up the Web Socket Server (WSS)](set-up-the-web-socket-server(wss).md)
+    - [Configure the Client and Run the App](configure-the-client-and-run-the-app.md)
 
 ## Downloads
 
@@ -31,36 +59,4 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 | Name | Size	|
 | --- | --- |
 | Development Guides |  |
-| [Omnissa Horizon SDK for WebRTC Redirection Programming Guide](./horizon_sdk_for_webrtc_redirection_programming_guide_2025-05-30-05-45-41.pdf) | 249 KB |
-
-
-- [Introduction](introduction.md) 
-- [About the Omnissa Horizon WebRTC Redirection API](about-the-omnissa-horizon-webrtc-redirection-api.md)
-- [Horizon SDK for WebRTC Redirection Program Flow](horizon-sdk-for-webrtc-redirection-program-flow.md) 
-- [Basic WebRTC API Reference](basic-webrtc-api-reference.md) 
-    - [enumerateDevices()](enumerateDevices().md)
-    - [getCallConfig(index)](getCallConfig(index).md)
-    - [getDisplayMedia(constraints)](getDisplayMedia(constraints).md) 
-    - [getReceiverCapabilities(kind)](getReceiverCapabilities(kind).md)
-    - [getScreenInfo()](getScreenInfo().md) 
-    - [getUserMedia (constraints)](getUserMedia(constraints).md)
-    - [initSDK (appLogger, appName, eventCallback)](initSDK(appLogger,appName,eventCallback).md)
-    - [isFeatureSupported (feature)](isFeatureSupported(feature).md) 
-    - [newMediaStream(tracks)](newMediaStream(tracks).md) 
-    - [newPeerConnection(configuration)](newPeerConnection(configuration).md) 
-    - [onAudioCreated(audioElem, window)](onAudioCreated(audioElem,window).md) 
-    - [onAudioDisposed(audioElem)](onAudioDisposed(audioElem).md) 
-    - [onScreenSelected(screenId)](onScreenSelected(screenId).md) 
-    - [onVideoCreated(videoElem, window)](onVideoCreated(videoElem,window).md)
-    - [onVideoDisposed(videoElem)](onVideoDisposed(videoElem).md) 
-    - [onWindowSessionConnected(state)](onWindowSessionConnected(state).md)
-    - [pauseRingtone(id)](pauseRingtone(id).md) 
-    - [playRingtone(id,src,isLoop)](playRingtone(id,src,isLoop).md) 
-    - [setPrimarySinkId(sinkId)](setPrimarySinkId(sinkId).md) 
-    - [setSinkId(id,sinkId)](setSinkId(id,sinkId).md) 
-    - [setVideoClipRegion (isAdd,clipRegion,window)](setVideoClipRegion(isAdd,clipRegion,window).md) 
-- [Setting Up the Sample Application](setting-up-the-sample-application.md) 
-    - [Set Up the Web Server (https)](set-up-the-web-server(https).md) 
-    - [Set Up the Web Socket Server (WSS)](set-up-the-web-socket-server(wss).md)
-    - [Configure the Client and Run the App](configure-the-client-and-run-the-app.md) 
-    - [Make a Test Meeting Call](make-a-test-meeting-call.md) 
+| [Horizon SDK for WebRTC Redirection Programming Guide](./horizon_sdk_for_webrtc_redirection_programming_guide_2025-05-30-05-45-41.pdf) | 249 KB |

@@ -27,4 +27,3 @@ Use this to retrieve configuration data when handling multiple call sessions or 
 let config = HorizonWebRtcRedirectionAPI.getCallConfig(0);
 console.log(config.pcfId);
 ```
-

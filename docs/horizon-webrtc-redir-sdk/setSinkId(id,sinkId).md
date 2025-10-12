@@ -22,5 +22,3 @@ None
 ```js
 HorizonWebRtcRedirectionAPI.setSinkId("audio01", "audioDevice01");
 ```
-
-
