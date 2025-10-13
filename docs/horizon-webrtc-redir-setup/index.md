@@ -14,7 +14,7 @@ hide:
   - [Client Installation](client-installation.md)
   - [Horizon Agent Installation and Configuration](horizon-agent-installation-and-configuration.md)
   - [Verify the WebRTC Redirection Sample Application](verify-the-webrtc-redirection-sample-application.md)
-- [WebSDK Installation and Configuration](installation-and-configuration.md)
+- [WebSDK Installation and Configuration](websdk-installation-and-configuration.md)
   - [Horizon Agent Installation and Configuration for WebSDK](websdk-horizon-agent-installation-and-configuration.md)
   - [Verify the WebRTC Redirection using Sample Web Application](websdk-verify-the-webrtc-redirection-sample-application.md)
 - [Test Scenarios](test-scenarios.md)
