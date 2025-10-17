@@ -39,6 +39,4 @@ Verify that the source virtual machine for each remote desktop meets the followi
 **UC Application**<br>
 The Horizon SDK for WebRTC Redirection supports UC applications built on the Electron software framework.
 
-**Note:** The SDK only supports Electron-based UC applications running on Omnissa VDI deployments. It does not support CEF, PWA, or browser-based WebRTC applications.
-
-To implement media optimization for browser-based WebRTC applications, use the Browser Content Redirection feature described in the [Configuring Browser Redirection](https://docs.omnissa.com/bundle/Horizon-Remote-Desktop-FeaturesV2206/page/ConfiguringBrowserRedirection.html) article.
+**Note:** The SDK only supports Electron-based UC applications running on Omnissa VDI deployments. It does not support CEF, PWA.

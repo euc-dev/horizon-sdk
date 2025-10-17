@@ -34,6 +34,6 @@ Verify that the source virtual machine for each remote desktop meets the followi
   - Windows Server 2019, 2016, 2012 R2<br>
 
 **UC Application**<br>
-The Horizon SDK for WebRTC Redirection supports UC applications built on the Electron software framework.
+The Horizon SDK for WebRTC Redirection supports UC applications built on the Electron software framework and browser-based applications.
 
 **Note:** The SDK for browser-based WebRTC application only supports UC applications running on Omnissa VDI deployments. It does not support CEF, PWA.
