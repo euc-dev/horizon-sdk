@@ -24,7 +24,7 @@ Horizon 2503 release is the first release to support call reconnection (ICE rest
 The SDK only supports Windows client endpoints at this time. Verify that each client system meets the following requirements:<br>
 - Windows 11 or Windows 10<br>
 - 2.4 GHz dual-core processor (minimum)<br>
-- Horizon Client for Windows 2206 or later
+- Horizon Client for Windows 2503 or later<br>
 
 **Note:** For information about the operating systems supported for a specific version of Horizon Client, see the release notes for that client version.
 
@@ -35,6 +35,7 @@ Verify that the source virtual machine for each remote desktop meets the followi
   - Windows 11, Windows 10<br>
   - Windows 10 Enterprise (multi-session, for Azure only)<br>
   - Windows Server 2019, 2016, 2012 R2<br>
+  - Horizon Agent 2503 or later<br>
 
 **UC Application**<br>
 The Horizon SDK for WebRTC Redirection supports UC applications built on the Electron software framework.
