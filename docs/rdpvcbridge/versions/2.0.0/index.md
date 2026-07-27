@@ -14,7 +14,7 @@ This SDK is free and public. To obtain technical support for the use of the SDK,
 
 ## Downloads
 
-Omnissa provides this Software Development Kit (the “Software”) to you subject to the following terms and conditions. By downloading, installing, or using the Software, you agree to be bound by the terms of [Omnissa SDK License Agreement](https://static.omnissa.com/sites/default/files/omnissa-sdk-agreement.pdf). If you disagree with any of the terms, then do not use the Software.
+Omnissa provides this Software Development Kit (the “Software”) to you subject to the following terms and conditions. By downloading, installing, or using the Software, you agree to be bound by the terms of [Omnissa SDK License Agreement](https://www.omnissa.com/omnissa-sdk-agreement/). If you disagree with any of the terms, then do not use the Software.
 
 For additional information, please visit the [Omnissa Legal Center](https://www.omnissa.com/legal-center/).
 
@@ -22,7 +22,7 @@ The SDK is provided as either a [Package](https://github.com/orgs/euc-releases/p
 
 ## License
 
-This software is licensed under the [Omnissa Software Development Kit (SDK) License Agreement](https://static.omnissa.com/sites/default/files/omnissa-sdk-agreement.pdf); you may not use this software except in compliance with the License.
+This software is licensed under the [Omnissa SDK License Agreement](https://www.omnissa.com/omnissa-sdk-agreement/); you may not use this software except in compliance with the License.
 
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
