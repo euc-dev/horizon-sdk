@@ -32,9 +32,9 @@ This software may also utilize Third-Pary Open Source Software as detailed withi
 
 ## SDK and Documentation
 
-| Name | Size |	 
-| --- | --- |
-|Development Guides |  |
-| [Omnissa Horizon Session Enhancement SDK 4.0](./versions/4.0/horizon-vdpservice-sdk-4.0.14304348675.zip) | 522 KB |
+| Name                                                                                                                               | Size    |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| Development Guides                                                                                                                 |         |
+| [Omnissa Horizon Session Enhancement SDK 4.1](./versions/4.1/horizon-vdpservice-sdk-33647416260.zip)                               | 524 KB  |
+| [Omnissa Horizon Session Enhancement SDK 4.0](./versions/4.0/horizon-vdpservice-sdk-4.0.14304348675.zip)                           | 522 KB  |
 | [Omnissa Horizon Session Enhancement SDK 4.0 - Programming Guide](./versions/4.0/horizon-vdpservice-sdk-programming-guide-4.0.pdf) | 1.38 MB |
-
